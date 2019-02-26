@@ -1,0 +1,32 @@
+<html>
+<body>
+<h2>Verbs to KB Relations Mapping</h2>
+<h3>Mapping Verbs in Different Languages to Knowledge Base Relations using Web Text as Interlingua.</h3>
+<b>Abstract:</b> In recent years many knowledge bases (KBs) have been constructed, yet there is not yet a verb resource that maps to these growing KB resources. A resource that maps verbs in different languages to KB relations would be useful for extracting facts from text into the KBs, and to aid alignment and integration of knowledge across different KBs and languages. Such a multi-lingual verb resource would also be useful for tasks such as machine translation and machine reading. In this paper, we present a scalable approach to automatically construct such a verb resource using a very large web text corpus as a kind of interlingua to relate verb phrases to KB relations. Given a text corpus in any language and any KB, it can produce a mapping of that language's verb phrases to the KB relations. Experiments with the English NELL KB and ClueWeb corpus show that the learned English verb-to-relation mapping is effective for extracting relation instances from English text. When applied to a Portuguese NELL KB and a Portuguese text corpus, the same method automatically constructs a verb resource in Portuguese that is effective for extracting relation instances from Portuguese text.
+<br><br><b>Paper:</b> <a href="mappingverbs.pdf">NAACL 2016 paper</a>
+<br><br><b>Related paper:</b> PIDGIN: Ontology Alignment using Web Text as Interlingua, CIKM 2013 [<a href="relation_align_cikm2013.pdf">pdf</a>]
+<br><br><b>Results:</b> (page may load slowly)
+<ul>
+<!--<li><a href="naivebayes-em-mapping-with-type-checking.html">EM mapping (naive bayes) with type checking</a> 
+<a href="naivebayes-em-mapping-with-type-checking-cps.html">(learned concept pairs)</a> 
+<a href="mappingResult/naive-bayes-em-mapping-filtered-with-type-checking-and-cps-knee-verbs.txt">(raw file)</a></li>--!>
+<li><b>English</b> EM <a href="naivebayes-em-mapping-with-type-checking-and-prior.html">mapping</a> 
+<a href="naivebayes-em-mapping-with-type-checking-and-prior-cps.html">(learned relation instances)</a> 
+<a href="mappingResult/kamal-log-verbs.txt">(raw)</a></li>
+<li><b>Portuguese</b> EM <a href="portuguese-verbs.html">mapping</a> 
+<a href="portuguese-cps.html">(learned relation instances)</a> 
+<a href="mappingResult/pt-kamal-verbs.txt">(raw)</a></li>
+<li><b>Baseline:</b> CPL verb-relation <a href="cpl-mapping.html">mapping</a> <a href="mappingResult/kamal-cpl-verbs.txt">(raw)</a></li>
+<li><b>Baseline:</b> DIRT (mutual information) verb-relation <a href="dirt-mapping.html">mapping</a> <a href="mappingResult/dirt-mutualinfo-style-mapping-filtered.txt">(raw)</a></li>
+<li><b>Baseline:</b> Paraphrase-style <a href="paraphrase-mapping.html">mapping</a> <a href="mappingResult/paraphrase-style-mapping-filtered.txt">(raw)</a></li>
+<li><b>Baseline:</b> NaiveBayes <a href="naivebayes-mapping.html">mapping</a> <a href="mappingResult/kamal-nb-verbs.txt">(raw)</a></li>
+</ul>
+<h4>The verbs-to-relations mapping is part of our knowledge base of verbs (VerbKB). Check out our <a href="http://gourierverb.azurewebsites.net">VerbKB</a>!</h4>
+
+<!--<h3>Previous</h3>
+<ul>
+<li><a href="em-mapping.html">EM mapping (naive bayes)</a> <a href="mappingResult/basic-em-mapping-filtered-knee.txt">(raw file)</a></li>
+<li><a href="em-prior-mapping.html">EM (with prior) mapping (topic model)</a> <a href="mappingResult/em-with-prior-mapping-filtered-knee.txt">(raw file)</a></li>
+</ul>--!>
+</body>
+</html>

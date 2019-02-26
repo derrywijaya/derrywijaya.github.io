@@ -1,0 +1,17 @@
+begin-nationalteam begin-nationalyears
+begin-birthdate begin-birthplace begin-born begin-cityofbirth begin-countryofbirth begin-location begin-name begin-origin
+begin-associatedacts begin-instrument begin-genre begin-occupation begin-alias begin-label begin-background
+begin-cityofdeath begin-countryofdeath begin-death begin-deathcause begin-deathdate begin-deathplace begin-died end-spouse end-yearsactive
+begin-fullname begin-playername begin-club begin-clubs begin-clubnumber begin-currentclub begin-youthclubs begin-years begin-youthyears
+end-years end-nationalyears end-youthyears
+begin-birthname begin-alternativenames begin-names begin-nickname begin-othername begin-othernames
+begin-debutdate begin-debutteam begin-debutyear begin-college begin-position
+begin-office begin-order begin-preceded begin-predecessor begin-president begin-primeminister begin-serviceyears begin-termstart begin-nationality begin-religion begin-constituency begin-constituencymp begin-residence begin-profession begin-deputy begin-party
+begin-education begin-almamater
+begin-succeeded begin-successor begin-termend end-serviceyears
+begin-team begin-teams
+begin-finaldate begin-finalyear
+begin-honorificprefix begin-honorificsuffix
+begin-influenced begin-influences
+begin-managerclubs begin-manageryears
+begin-branch begin-commands begin-unit

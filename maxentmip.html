@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+
+
+    <script>
+
+
+
+
+        var InputData = "";
+
+        $.get('postCondition/learnedVerbs.txt', function (data) {
+               // $('#text-file-container').html(data);
+
+                dataArr = data.split('\n');
+                InputData = dataArr;
+                for (i = 0; i < dataArr.length; i++) {
+                    keyVal = dataArr[i].split("\t");
+
+                    //var obj1 = {};
+                    //for (j = 0; j < keyVal.length; j++) {
+                    //    obj1[j] = keyVal[j];
+                    //    //obj1[j] = keyVal[1];
+                    //    //obj1 = val;
+                    //}
+                    //var key = keyVal[0];
+
+                    //var val;
+                    //if (isInt(keyVal[1])) {
+                    //    val = parseInt(keyVal[1]);
+                    //} else {
+                   //val = keyVal[1];
+                    //}
+                    //obj[i] = obj1;
+                    addRow(keyVal[0], keyVal[1]);
+                }
+
+                //document.getElementById("side").innerHTML =
+                // obj[0][0] + "<br>";
+
+
+
+                //data2 = JSON.stringify(obj, null, 4);
+            });
+        //});
+
+        function ShowOtherRelation(obj1) {
+            //document.getElementById("isi").innerHTML = obj1.value;
+            dataArr = InputData;
+            var div2 = ' <div class="row"><div class="col-sm-7"><b>' + obj1.text + '</b></div></div>';
+             div2 =  div2+ ' <div class="row"><div class="col-sm-9">Verb</div><div class="col-sm-1">Weight</div></div>';
+            for (i = 0; i < dataArr.length; i++) {
+                keyVal = dataArr[i].split("\t");
+
+                if (keyVal[0] == obj1.text)
+                {
+                    i = dataArr.length;
+                    keyVal1 = keyVal[1].split(";");
+                    //alert(keyVal1);
+                    for (j = 0; j < keyVal1.length; j++) {
+                        keyVal2 = keyVal1[j].split(",");
+                        keyVal2[1] = parseFloat(Math.round(keyVal2[1] * 100000) / 100000).toFixed(5);
+                        var div2 = div2 + ' <div class="row"><div class="col-sm-9">' + keyVal2[0] + '</div><div class="col-sm-1">' + keyVal2[1] + '</div></div>';
+                    }
+
+                   
+                }
+               
+            }
+            var div = jQuery(' <div class="row"><div class="col-sm-9">Verb</div><div class="col-sm-1">Weight</div></div>');
+            //div2 = jQuery(div2);
+            //var div3 = jQuery('<div></div>').html("<font color=green>Ptype:</font>" + obj1);
+
+
+            /* jQuery('<div/>', {
+              
+                 onclick:"Javacsript:ShowOtherRelation(this)",
+                 value:data,
+                 text: data
+             }).appendTo('#isi2'); */
+            $("#isi").empty()
+            $("#isi").html(div2);
+            //jQuery('#isi').append([div, div2]);
+
+            //alert("Hi");
+            //var index = obj.parentNode.parentNode.rowIndex;
+            //var table = document.getElementById("myTableData");
+            //table.deleteRow(index);
+
+        }
+
+
+        function addRow(data, data1) {
+
+            //var myName = document.getElementById("name");
+            //var age = document.getElementById("age");
+            var table = document.getElementById("myTableData");
+
+            var rowCount = table.rows.length;
+            var row = table.insertRow(rowCount);
+
+            //row.insertCell(0).innerHTML = '<input type="button" value = ' + '"' + data + '"' + ' onClick="Javacsript:ShowOtherRelation(this)">';
+            //row.insertCell(1).innerHTML = '<label onClick="Javacsript:ShowOtherRelation(this)">' + data + '</label>';
+            row.insertCell(0).innerHTML = '<a href="#" onClick="Javacsript:ShowOtherRelation(this)">' + data + '</a>';
+            
+           
+        }
+
+
+        //$.get("inpt.txt", function (data) {
+        //    var items = data.split(',');
+        //});
+    </script>
+
+
+
+    <title>State-changing verbs</title>
+</head>
+<body>
+
+    <div class="container-fluid" >
+        <h3>State-changing verbs learned with MaxEnt + feature selection (using MIP)</h3>
+        <div class="row ">
+            <div class="col-md-2 well well-sm" style="max-height:1000px; overflow: scroll" >
+                <table id="myTableData"  cellpadding="2" style="border:none; border-bottom:none; border-right:none; border-top:none;border-left:none" border="0">
+                    <tr>
+                        <!--<td><b></b></td>n
+                        <td><b>Name</b></td>
+                        <td><b>Relation</b></td>-->
+                    </tr>
+                </table>
+            </div>
+            
+
+            <div class="col-md-10 ">
+                <div id="isi">
+
+                </div>
+            </div>
+        </div>
+   </div>
+
+    
+  
+    
+    </body>
+</html>

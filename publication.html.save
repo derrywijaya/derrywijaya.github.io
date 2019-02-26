@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Derry Wijaya</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+<meta name="author" content="froilan banaticla - tamad.net" />
+<meta name="description" content="Site Description Here" />
+<meta name="keywords" content="keywords, here" />
+<meta name="robots" content="index, follow, noarchive" />
+<meta name="googlebot" content="noarchive" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<!-- main-wrapper -->
+<!-- InstanceBeginEditable name="side" -->
+<div id="main-wrapper" class="container_12">
+		 
+		 <!-- header -->
+		 			<div id="header" class="grid_2">
+							 <div id="logo">
+							 			<p class="title"><a href="#">Komodo</a></p>
+										<span class="description">Derry Research Page</span>
+							 </div>
+							 
+							 <div id="menu">
+							 			<ul>
+							 		 			<li><a href="index.htm">Home</a></li>
+									 			<li><a href="resInterest.html">Research Interests</a></li>
+												<li class="current_page_item"><a href="publication.html">Publications</a></li>
+                                                <li><a href="projects.html">Research Projects</a></li>
+                                                <li><a href="education.html">Education</a></li>
+                                                <li><a href="awards.html">Awards</a></li>
+                                                <li><a href="Experience.html">Experience and Skills</a></li>
+                                                <li><a href="design.html">Select Design & Systems</a></li>
+                                                <li><a href="contact.html">Contacts</a></li>
+							 			</ul>
+							 </div>							 			 
+					</div>
+					
+		 <!-- end of header -->
+         <!-- InstanceEndEditable -->
+							 
+							 <!-- content -->
+                             <!-- InstanceBeginEditable name="isi" -->
+					 			 <div id="content" class="grid_6">												 
+												 
+												 <h1>List of Publications</h1>
+												 
+												 <div class="recent-posts">
+												 			<h2>Main publications</h2>
+												 			<ol>
+												 			  <li><strong>Clustering Web Documents Using Co-citation, Coupling, Incoming, and Outgoing Hyperlinks: a Comparative Performance Analysis of Algorithms.</strong> Derry Tanti Wijaya and Stéphane Bressan. International Journal of Web Information System 2 (2), June 2006. <a href="IJWIS2-1-1Bressan.pdf">pdf</a></li>
+												 			  <li><strong>Journey to the Centre of the Star: Various Ways of Finding Star Centers in Star Clustering.</strong> Derry Tanti Wijaya and Stéphane Bressan. R. Wagner, N. Revell, and G. Pernul (Eds.): DEXA 2007, LNCS 4653, pp. 660-670, 2007. <a href="WijayaBressan_starClusteringDEXA07.pdf">pdf</a> <a href="dexa07.ppt">slides</a> <a href="star.rar">codes</a> <a href="google.zip">data</a></li>
+												 			  <li><strong>Hierarchical Clustering for POS Tagging of the Indonesian Language. </strong>Derry Tanti Wijaya and Stéphane Bressan. SNLP 2007. <a href="BressanWijaya_MSTClusteringSNLP07.pdf">pdf</a> <a href="snlp07.ppt">slides</a></li>
+												 			  <li><strong>Random Walk on the Red Carpet: Rating Movies with User Reviews and PageRank.</strong> Derry Tanti Wijaya and Stéphane Bressan. CIKM 2008. <a href="BressanWijaya_cikm2008.pdf">pdf</a> <a href="CIKM2008.ppt">slides</a> <a href="opinionMining.rar">codes+data</a></li>
+												 			  <li><strong>Ricochet: A Family of Unconstrained Algorithms for Graph clustering.</strong> Derry Tanti Wijaya and Stéphane Bressan. DASFAA 2009. <a href="BressanWijaya_RicochetClusteringDASFAA09.pdf">pdf</a> <a href="dasfaa09.ppt">slides</a> <a href="ricochet.rar">codes+data</a></li>
+												 			  <li><strong>Predicting Classifier Performance Using Data Set Descriptors and Data Mining Ontology.</strong> Derry Tanti Wijaya, Alexandros Kalousis, Melanie Hilario. Proc. of the 3rd Planning to Learn Workshop, ECAI 2010.</li>
+														 	  <li><strong>"Nut Case: What does It Mean?": Understanding Semantic Relationship between Nouns in Noun Compounds through Paraphrasing and Ranking the Paraphrases.</strong> Derry Tanti Wijaya and Philip Gianfortoni. Proc. of the Workshop on Search and Mining Entity-Relationship Data (SMER) 2011, CIKM 2011. <a href="http://rtw.ml.cmu.edu/papers/wijaya-smer11.pdf">pdf</a></li>
+												 			  <li><strong>Understanding Semantic Change of Words Over Centuries.</strong> Derry Tanti Wijaya and Reyyan Yeniterzi. Proc. of the Workshop on Detecting and Exploiting Cultural Diversity on the Social Web (DETECT) 2011, CIKM 2011. <a href="http://rtw.ml.cmu.edu/papers/wijaya-detect11.pdf">pdf</a></li>
+
+															  <li><strong>Clustering Vertices in Weighted Graphs.</strong>Derry Wijaya, . </li>
+															  <li><strong>Coupled Temporal Scoping.</strong>Partha Pratim Talukdar, Derry Wijaya, Tom Mitchell. In Proceedings of the International Conference on Web Search and Data Mining (WSDM 2012), Seattle, USA. <a href="http://rtw.ml.cmu.edu/papers/talukdar-wsdm12.pdf">pdf</a></li>
+															  <li><strong>Acquiring Temporal Constraints between Relations.</strong>Partha Pratim Talukdar, Derry Wijaya, Tom Mitchell. To appear in CIKM 2012, Hawaii, USA. <a href="http://rtw.ml.cmu.edu/papers/talukdar-cikm12.pdf">pdf</a></li>
+									 			   </ol>
+												 			<p>&nbsp;</p>
+                                                 </div>
+												 
+												 <div class="recent-posts">
+												 			<h2>Other publications</h2>
+						 			               <ol>
+									 			              <li><strong>A Farmer's Hope</strong>. Derry Tanti Wijaya and Syahrial Dahler. An article in the book Gema Kebangkitan: Catatan Harapan Anak Bangsa (Echo of Awakening: Diary of Hopes from the Children of the Nation). A book published in celebration of the 100th-year Indonesian National Awakening day, 2008.  <a href="aFarmersHope.pdf">pdf</a></li>
+									 			              <li><strong>The Role of Women in Local Economic Reform in Indonesia</strong>. Derry Tanti Wijaya. A research done for the Women Study Center, State University of Malang, Indonesia, 2003</li>
+						 			               </ol>
+						 			               <p>&nbsp;</p>
+												 </div>												 
+										</div>
+                                        <!-- InstanceEndEditable -->
+							 <!-- end of content -->			
+										 
+		 					 <!-- sidebar -->
+		 					 <!-- end of sidebar -->
+							 
+<div class="clear"></div>
+							 
+							 <!-- footer -->
+		 					 			<div id="footer">
+												 <p>&copy;2010 <a href="#">Derry Wijaya</a> | Design by <a href="http://www.people.usi.ch/dahlers/">Komodo Garage</p>
+										</div>
+		 					 <!-- end of footer -->
+							 
+</div>
+<!-- end of main-wrapper --> 					 
+
+<div style="text-align: center; font-size: 0.75em;">Provided By <a href="#">Komodo Garage</a></div></body>
+<!-- InstanceEnd --></html>

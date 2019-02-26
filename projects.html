@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Derry Wijaya</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+<meta name="author" content="froilan banaticla - tamad.net" />
+<meta name="description" content="Site Description Here" />
+<meta name="keywords" content="keywords, here" />
+<meta name="robots" content="index, follow, noarchive" />
+<meta name="googlebot" content="noarchive" />
+
+<link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+</head>
+
+<body>
+<!-- main-wrapper -->
+<!-- InstanceBeginEditable name="side" -->
+<div id="main-wrapper" class="container_12">
+		 
+		 <!-- header -->
+		 			<div id="header" class="grid_2">
+							 <div id="logo">
+							 			<p class="title"><a href="#">Komodo</a></p>
+										<span class="description">Derry Research Page</span>
+							 </div>
+							 
+							 <div id="menu">
+							 			<ul>
+							 		 			<li><a href="index.htm">Home</a></li>
+									 			<li><a href="resInterest.html">Research Interests</a></li>
+												<li><a href="publication.html">Publications</a></li>
+                                                <li class="current_page_item"><a href="projects.html">Research Projects</a></li>
+                                                <li><a href="education.html">Education</a></li>
+                                                <li><a href="awards.html">Awards</a></li>
+                                                <li><a href="Experience.html">Experience</a></li>
+                                                <!--<li><a href="design.html">Select Design & Systems</a></li>-->
+                                                <li><a href="contact.html">Contacts</a></li>
+							 			</ul>
+							 </div>							 			 
+					</div>
+					
+		 <!-- end of header -->
+         <!-- InstanceEndEditable -->
+							 
+							 <!-- content -->
+                             <!-- InstanceBeginEditable name="isi" -->
+					 			 <div id="content" class="grid_6">
+	 			     <div class="recent-posts"></div>
+												 <p>&nbsp;</p>
+                                                 <h1>Research Projects</h1>
+                                                 
+                                                 <div class="recent-posts">
+												 			
+	<h2>Bilingual Lexicon Induction <i> : Can computers induce translations without parallel texts?</i> </h2>
+    <p>Machine translations are typically learned from parallel corpora that contains sentence-aligned bilingual texts. However, for many language pairs, such parallel corpora 
+cannot be assumed. In such cases, being able to learn translations from monolingual sources is potentially useful. I model the problem of learning lexical translations as a matrix 
+completion problem, and present an effective and extendable framework for completing the matrix. The method harnesses diverse bilingual and monolingual signals, each of which 
+maybe incomplete or noisy. The model achieves state-of-the-art performance for both high and low resource languages [<a 
+href="http://www.cis.upenn.edu/~derry/bpr.pdf">EMNLP2017 (to appear)</a>] [<a href="http://www.cis.upenn.edu/~derry/translations.html">project page</a>].
+    </p>
+ 	<a href="images/matrixcompletion3.png"><img src="images/matrixcompletion3.png" width="40%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="images/matrixcompletion4.png"><img src="images/matrixcompletion4.png" width="50%" /></a>
+    <p class="caption"><b>Figure 1</b>: <i>(<b>Left</b>) The model allows us to use a diverse range of signals to learn translations, including incomplete bilingual dictionaries, information from related languages (like Indonesian loan words from Dutch shown here), information from multilingual knowledge bases such as <a href="http://wiki.dbpedia.org">DBPedia</a>, word embeddings (shown in the columns), and even visual similarity cues. (<b>Right</b>) The model that combines textual and visual signals for translations (BPR_VIS) improves accuracy of the translation compared to the method that uses textual (BPR_WE) or visual (CNN_AVGMAX) signals alone. In this example, the correct English translation for the Indonesian word "pelayaran" is underlined. The figures on the left and right show the Google Search images of the word in Indonesian and in English.</i></p>
+    <hr class='divider'>
+    <h2>Verb Knowledge Base <i> : Can computers learn the meaning of verbs? </i> </h2>
+     <p>A verb is the organizational core of a sentence. Understanding the meaning of the verb is key to understanding the meaning of the sentence. One of the ways we can formulate natural language understanding is by treating it as a task of mapping natural language text to its meaning representation: entities and relations anchored to the world. Since verbs express relations over their arguments and adjuncts, a lexical resource about verbs can facilitate natural language understanding by mapping verbs to relations over world entities that are expressed by the verbs' arguments and adjuncts. 
+     
+     <h3>Part 1 <small> : Which verbs express which relations? </small> </h3>
+     </p><p>I developed a semi supervised method that automatically creates a multilingual resource on verbs that links verbs to relations over entities in <a 
+href="http://rtw.ml.cmu.edu/rtw/">NELL</a> knowledge base. Additionally, the method incorporates constraints among relations in NELL's ontology to effectively map the verbs to the 
+relations. [<a href="http://www.seas.upenn.edu/~derry/mappingverbs.pdf">NAACL2016</a>][<a href="http://www.seas.upenn.edu/~derry/mapping.html">project page</a>]. 
+	</p>  
+	<a href="images/verbToKBRelation1.png"><img src="images/verbToKBRelation1.png" width="40%" /></a>&nbsp;&nbsp;&nbsp;<a href="images/verbToKBRelation2.png"><img src="images/verbToKBRelation2.png" width="50%" /></a>
+    <p class="caption"><b>Figure 1</b>: <i>(<b>Left</b>) Mapping verb phrases to relations in NELL knowledge base through <a href="http://rtw.ml.cmu.edu/resources/svo/">web-scale text</a>. Each relation instance is grounded by its mentions in the Web-text. The verbs that co-occur with mentions of the relation’s instances are mapped to that relation. (<b>Right</b>) The table shows English and Portuguese verbs and proposed new instances for some NELL relations. </i></p>
+    <h3>Part 2 <small> : Which verbs express which <i>change</i> in relations? </small> </h3>
+    <p> I developed a method that uses Wikipedia <i>edit</i> history as distant supervision to automatically learn verbs and state changes e.g., to learn that the addition of the 
+verb "marry", which takes a person as a subject, to the person's Wikipedia page indicates (to a certain degree of confidence) the beginning of the person's <i>spousal</i> 
+relationship, while the addition of "divorce" indicates the termination of said relationship. Additionally, the method uses constraints among the relations to effectively map verbs to relation changes.[<a href="http://www.seas.upenn.edu/~derry/state_changing_verbs_emnlp_2015.pdf">EMNLP2015</a>][<a href="http://www.seas.upenn.edu/~derry/postcondition.html">project page</a>]
+    <a href="images/statechange1.png"><img src="images/statechange1.png" width="95%" /></a>
+    <p class="caption"><b>Figure 2</b>: <i> A snapshot of a person's Wikipedia edit history, highlighting text and infobox changes. Highlighted in red (and green) are edit history of the page: things that are deleted from (and added to) the page, after the person's marriage event. The edit history acts as a distant supervision for learning the correspondence between verbs being added/deleted from the page and relations being updated in the infobox. </i></p>
+    </p>
+    <center><a href="images/statechange2.png"><img src="images/statechange2.png" width="50%" /></a></center>
+     <p class="caption"><b>Figure 3</b>: <i>The table shows some of the learned state-change verbs for various initiation (begin-) and termination (end-) of relations. </i></p>
+    </p>
+    <h3>Part 3 <small> : Can verbs extend knowledge bases? </small> </h3>
+    
+    <p>In my dissertation, I developed a method to semi automatically build <a href="http://gourierverb.azurewebsites.net">VerbKB</a>, the largest knowledge base of English verbs to date. VerbKB contains verbs that are extracted from web-scale texts, semantically typed, organized into <a href="http://www.seas.upenn.edu/~derry/verbKBCluster.txt">synonym sets</a>, and mapped to relations in NELL knowledge base. VerbKB extends NELL’s ontology of relations with clusters of semantically similar verbs. [<a href="http://www.seas.upenn.edu/~derry/derryThesis.pdf">Dissertation</a>][<a href="http://www.seas.upenn.edu/~derry/thesis.html">project page</a>]
+    </p>
+    <center><a href="images/verbkb.png"><img src="images/verbkb.png" width="80%" /></a></center>
+    <p class="caption"><b>Figure 4</b>: <i>VerbKB entry for the verb "marry" showing the mapping of the verb to the relations in NELL that it expresses. It also shows the mapping from the verb to the initiation of the <i>spouse</i> relation in Wikipedia. The verbs' arguments are semantically typed with NELL categories, and the typed verbs are ranked based on their frequencies of occurrences in the Web-text. </i></p>
+    <p>The distribution of verbs associated with any given relation in a knowledge base forms a representation of that relation’s semantics that is independent of the knowledge base. 
+    To integrate beliefs in these knowledge bases and extend the coverage of any one knowledge base, I developed a graph-based self-supervised learning called PIDGIN for aligning their knowledge through verbs in Web-text. [<a href="http://www.seas.upenn.edu/~derry/relation_align_cikm2013.pdf">CIKM2013</a>] [<a href="http://rtw.ml.cmu.edu/cikm2013_pidgin/">project page</a>]
+    </p>
+    <center><a href="images/pidgin.png"><img src="images/pidgin.png" width="90%" /></a></center>
+    <p class="caption"><b>Figure 5</b>: <i>(a) Inputs to PIDGIN include KB1 and KB2, each consisting of two relation instances (e.g., (Bill Clinton, <i>bornIn</i>, Hope)). Another input is a set of <a href="http://rtw.ml.cmu.edu/resources/svo/">Subject-Verb-Object (SVO) triples</a> (the interlingua) extracted from a natural language text corpus. (b) Graph constructed from the input. PIDGIN performs inference over this graph to determine that KB1:<i>bornIn</i> is equivalent to KB2:<i>personBornInCity</i>. Since there is no overlap between relation instances from these two KBs, algorithms based on instance overlap will be unable to align these two ontologies. PIDGIN overcomes this limitation through use of the SVO-based interlingua and inference over the graph. </i></p>
+    <hr class='divider'>
+    <h2>Temporal Scopes in Knowledge Bases <i> : Can computers learn temporal validity of beliefs in knowledge bases? </i> </h2>
+     <p>Much of the effort on constructing knowledge bases has been focused on gathering beliefs without their temporal scopes when in reality beliefs dynamically change with time e.g., <i>politicianHoldsOffice</i>(Reagan, president) is only valid from 01/20/1981 to 01/20/1989. 
+     In my research, I have observed that mentions of entities and beliefs in texts change over time. These changes can be used to infer their updates in the knowledge base. 
+      <h3>Part 1 <small> : When does a belief start and when does it end? </small> </h3>
+     </p><p>With collaborators, I developed a joint inference method for extracting the temporal scopes of a belief from changes in the counts of a belief's mentions in documents.  
+     Independent activation scores of beliefs, which are inferred from their mentions, are input to a joint inference framework to infer the temporal scopes of beliefs while respecting temporal constraints among those beliefs e.g., the constraint that <i>politicianHoldsOffice</i>(Bush, president) succeeds <i>politicianHoldsOffice</i>(Reagan, president). [<a href="http://rtw.ml.cmu.edu/papers/talukdar-wsdm12.pdf">WSDM2012</a>]
+	</p>  
+    <center><a href="images/cots1.png"><img src="images/cots1.png" width="50%" /></a></center>
+    <p class="caption"><b>Figure 1</b>: <i>Temporal profiles of two beliefs in NELL knowledge base demonstrating potential benefit of collective inference: considering ’President Bush’ during inference can help determine the end of Reagan’s presidency (shaded region). 
+    </i></p>
+    <a href="images/cots2.png"><img src="images/cots2.png" width="100%" /></a>
+    <p class="caption"><b>Figure 2</b>: <i>Architecture of the joint inference framework. We query time-stamped text corpora for beliefs in knowledge bases to obtain their temporal profiles. 
+	The temporal profiles are input to a classifier that classifies for each belief whether the belief is active or not at any given time. 
+	Independent activation scores of beliefs are then input to a joint inference framework that infers the temporal scopes of the beliefs consistent with their temporal constraints. </i>
+    </p>
+    <h3>Part 2 <small> : Do some beliefs <i>typically</i> start before another? </small> </h3>
+	<p>To learn the temporal constraints among beliefs, with collaborators I developed a method that automatically learns the temporal constraints among relations (e.g., to learn that the relation <i>starredIn</i>(actor, movie) typically occurs before <i>wonPrize</i>(movie, award)), from the narrative order of the verbs that express the relations within documents. 
+	The narrative order of the verbs serve as a probabilistic training signal for learning the temporal order of the relations that the verbs express. Instead of ordering two beliefs at a time, we developed a graph-based label propagation algorithm called GraphOrder to jointly infer the temporal order of all relations at once, taking transitivity into account. 
+	[<a href="http://rtw.ml.cmu.edu/papers/talukdar-cikm12.pdf">CIKM2012</a>]
+	</p>
+	<a href="images/narrative1.png"><img src="images/narrative1.png" width="50%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="images/narrative2.png"><img src="images/narrative2.png" width="45%" /></a>
+    <p class="caption"><b>Figure 3</b>: <i>(<b>Left</b>) Given a large document collection, we aggregate the narrative order of the verb mentions in the documents (e.g., "directed", "starring", "won", etc.) and use it to serve as a probabilistic training signal for learning the temporal order of the relations that the verbs express (e.g., directed, actedIn, wonPrize respectively). 
+    (<b>Right</b>) Examples of temporal orderings of relations in the domain of Politics which were automatically learned by GraphOrder. Directed arrow indicates a before relation while each bi-directed arrow indicates a simultaneous relation. The score on each edge indicates the confidence of the temporal order. </i></p>
+	<hr class='divider'>
+    <h2>Understanding Semantic Change of Words Over Centuries <i> : Can computers detect <i>when</i> and <i>how</i> some words change meanings? </i> </h2>
+     <p>Words change meanings over time and these changes are often reflected in the context in which the words are being used at different times. For example, the word "awful" originally meant ‘awe-inspiring, filling someone with deep awe’, as in the "awful majesty of the Creator". At some point it becomes something extremely bad, as in "an awfully bad performance", but now the intensity of the expression has lessened and the word is now used informally to just mean ‘very bad’, as in "an awful mess". </p>
+     <p>I developed a method to model and analyze changes that occur to a word in terms of the changes in the words that co-occur with it (i.e., its context) over time in <a href="http://storage.googleapis.com/books/ngrams/books/datasetsv2.html">Google Books NGram</a>. 
+     Specifically, for a given word of interest, the method clusters words that occur in its context. 
+Each cluster is a reflection of the word's meaning and the method identifies the year(s) in which the 
+cluster changes. The change in the cluster acts as a proxy for the change in the word's meaning. 
+[<a href="http://rtw.ml.cmu.edu/papers/wijaya-detect11.pdf">DETECT2011</a>]
+	 </p>
+    <center><a href="images/wordChange1.png"><img src="images/wordChange1.png" width="45%" /></a></center>
+    <p class="caption"><b>Figure 1</b>: <i> Given the word "gay", the cluster change can be seen around 1970s when the word "gay" started to be used with words that reflect the homosexual meaning of the word "gay". The top words for each cluster are a good indicator of the original and the latter meaning of the word.</i></p>
+    <center><a href="images/wordChange2.png"><img src="images/wordChange2.png" width="60%" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="images/wordChange3.png"><img src="images/wordChange3.png" width="60%" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+    <a href="images/wordChange4.png"><img src="images/wordChange4.png" width="65%" /></a></center>
+    <p class="caption"><b>Figure 2</b>: <i>Word co-occurrence graphs of "gay" at different time periods. Each word is a node and the edge between nodes is weighted by the number of n-grams in which these words co-occur together in Google Books NGram. 
+    In 1954, the node "gay" is mostly connected with the nodes "young", "life" etc. but as the time goes on nodes such as "liberation", "lesbian" get connected to "gay" and their weights increases over time. With these graphs we can easily see how the word usage changes over the years.</i></p>
+	<br>
+	<hr class='divider'>	
+						          </div>	
+						          
+						          <div class="recent-posts">
+												 			<h2>Other previous research projects</h2>
+			 			                           <ol>
+			 			                           <li>
+			 			                           <b>Understanding Semantic Relationship between Nouns in Noun Compounds through Paraphrasing and Ranking the Paraphrases.</b> Machine Learning course, 2010<br />
+			 			                           Given an noun compound (NC) such as 'headache pills' and possible paraphrases such as: 'pills that <i>induce</i> headache' or 'pills that <i>relieve</i> headache' can we learn to choose which verb: 'induce' or 'relieve' that best describes the semantic relation encoded in 'headache pills'? In this project, we describe our approaches to rank human-proposed paraphrasing verbs of NCs. Our contribution is a novel approach that uses two-step process of clustering similar NCs and then labeling the best paraphrasing verb as the most prototypical verb in the cluster. At that time, our proposed method outperforms state-of-the-art method for the task. [<a href="http://rtw.ml.cmu.edu/papers/wijaya-smer11.pdf">SMER2011</a>]
+			 			                           </li>
+												 			<li>
+												   <b>Meta learning based on Data Mining ontology.</b> Project done as a 
+graduate research assistant for the <a href="http://www.e-lico.eu/">e-LICO</a> project at the University of Geneva, Switzerland, 2009-2010<br>
+									 			   
+												 			
+												 			  The project aims to put some sort of structure into the abundant disarray of algorithms in the field of Data Mining through the construction of Data Mining ontology. With this ontology, it is hoped that some structured insights can be made into the 'black boxes' of algorithms, find algorithms' inherent similarities and differences, and their suitability for a particular task or datasets with specific characteristics. The ontology will be used as a source of prior knowledge in an intelligent meta-learner that will help users of Data Mining algorithms to select the best algorithm and the sequence of Data Mining operators most suitable for the task and the dataset at hand.
+									 			   </ul>
+
+						 			                          <li><strong>Mining Correlation among Time Series using Maximum Fuzzy Alignment</strong>. Advanced Data Mining course, 2007<br />
+						 			                            This project proposes to measure correlation between time series that allows for time shifting and mismatching. The project uses idea from Machine Translation in Natural Language Processing to find maximum fuzzy alignment between time series. Initial experiment on synthetic and real data shows that the method is able to find better alignment than the Longest Common Subsequence algorithm</li>
+						 			                          <li><strong>Rating Objects using Random Walk on Sentiment Graph</strong>. Advanced Natural Language Processing course, 2007 <br />
+						 			                            This project constructs sentiment graph from reviews, with adjectives from reviews as nodes in the graph. It then conducts random walk on the graph to simulate the flow of sentiments among adjectives and score the adjectives. Objects are then ranked according to the aggregated sentiment scores of their adjectives [<a href="http://www.seas.upenn.edu/~derry/BressanWijaya_cikm2008.pdf">CIKM2008</a>]</li>
+						 			                          <li><strong>Text Summarization</strong>. Text Processing on the Web course, 2007 <br />
+						 			                            This project uses Markov clustering to first cluster sentences according to topics and then uses PageRank algorithm to select the most important sentence of each cluster to be returned in the summary</li>
+						 			                          <li><strong>Ranking resources and queries in mobile discovery of resources in peer-to-peer wireless network</strong>. Parallel and Distributed Databases course, 2006 <br />
+						 			                            This project explores the management of databases distributed among moving objects such as mobile devices in a peer-to-peer wireless ad-hoc network. We investigate the effect of ranking resources and queries that are to be shared among mobile devices in a peer-to-peer wireless ad-hoc network with a limited communication bandwidth. We perform simulation on SWAN which is a scalable wireless ad-hoc network simulator to test and compare the effect of various ranking schemes.</li>
+			 			                           </ol>
+			 			                           <p>&nbsp;</p>
+												 </div>	
+						          											 
+										</div>
+                                        <!-- InstanceEndEditable -->
+							 <!-- end of content -->			
+										 
+		 					 <!-- sidebar -->
+		 					 <!-- end of sidebar -->
+							 
+<div class="clear"></div>
+							 
+							 <!-- footer -->
+		 					 			<div id="footer">
+												 <p>&copy;2010 <a href="#">Derry Wijaya</a> | Design by <a href="http://www.people.usi.ch/dahlers/">Komodo Garage</p>
+										</div>
+		 					 <!-- end of footer -->
+							 
+</div>
+<!-- end of main-wrapper --> 					 
+
+<div style="text-align: center; font-size: 0.75em;">Provided By <a href="#">Komodo Garage</a></div></body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,1362 @@
+1	(sign)	311361.0
+2	(sign) (administer,administrate)	238217.0
+1	(bill)	114723.0
+1	(elect)	114258.0
+1	(visit)	109377.0
+1	(debate)	107500.0
+3	(visit) (elect) (sign)	100000.0
+4	(visit) (elect) (meet) (sign)	75000.0
+3	(visit) (meet) (sign)	75000.0
+2	(bill) (administer,administrate)	71607.0
+1	(brown)	63116.0
+2	(visit) (elect)	56250.0
+2	(elect) (bill)	53334.0
+1	(administer,administrate)	52382.0
+2	(elect) (administer,administrate)	43786.0
+4	(visit) (administer,administrate) (meet) (sign)	37500.0
+1	(coal)	37500.0
+2	(administer,administrate) (elect)	30340.0
+3	(represent) (be) (sign)	30000.0
+2	(debate) (administer,administrate)	29992.0
+3	(elect) (bill) (administer,administrate)	28446.0
+2	(brown) (administer,administrate)	27622.0
+3	(elect) (administer,administrate) (house)	26432.0
+2	(coal) (brown)	25616.0
+2	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have)	25000.0
+4	(visit) (administer,administrate) (elect) (sign)	25000.0
+2	(debate) (elect)	24000.0
+2	(bill) (elect)	22344.0
+2	(administer,administrate) (brown)	21432.0
+3	(administer,administrate) (elect) (house)	20664.0
+1	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have)	19375.0
+2	(visit) (meet)	18750.0
+3	(visit) (elect) (meet)	18750.0
+1	(campaign,run)	18750.0
+2	(elect) (house)	18108.0
+3	(elect) (administer,administrate) (bill)	17886.0
+3	(bill) (administer,administrate) (sign)	16569.0
+2	(elect) (reduce,cut)	16496.0
+4	(debate) (administer,administrate) (elect) (visit)	16256.0
+3	(elect) (cut,reduce) (house)	16096.0
+2	(visit) (administer,administrate)	15625.0
+1	(represent)	15000.0
+3	(debate) (administer,administrate) (elect)	14984.0
+2	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate)	13750.0
+3	(debate) (elect) (visit)	13248.0
+2	(brown) (store)	13116.0
+2	(bill) (gore)	12969.0
+2	(campaign,run) (elect)	12436.0
+3	(bill) (elect) (administer,administrate)	12243.0
+3	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect)	12000.0
+4	(debate) (administer,administrate) (house) (visit)	11680.0
+2	(bill) (sign)	11523.0
+2	(brown) (elect)	10622.0
+2	(coal) (administer,administrate)	10374.0
+2	(elect) (be)	10374.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit)	10304.0
+2	(represent) (sign)	10000.0
+3	(represent) (drive,ride,take,motor) (sign)	10000.0
+3	(drive,ride,take,motor) (be) (sign)	10000.0
+4	(debate) (elect) (house) (visit)	9984.0
+3	(elect) (bill) (sign)	9984.0
+3	(coal) (brown) (administer,administrate)	9876.0
+3	(visit) (administer,administrate) (meet)	9375.0
+3	(brown) (administer,administrate) (sign)	9024.0
+3	(coal) (brown) (store)	8744.0
+3	(elect) (bill) (gore)	8646.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit)	8320.0
+3	(debate) (administer,administrate) (visit)	8128.0
+4	(debate) (elect) (administer,administrate) (visit)	7968.0
+2	(order) (sign)	7500.0
+2	(represent) (be)	7500.0
+3	(coal) (administer,administrate) (brown)	7372.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect)	7000.0
+3	(bill) (administer,administrate) (house)	6771.0
+3	(elect) (cut,reduce) (administer,administrate)	6560.0
+4	(elect) (bill) (administer,administrate) (sign)	6462.0
+3	(debate) (administer,administrate) (house)	6384.0
+3	(bill) (administer,administrate) (gore)	6303.0
+2	(coal) (elect)	6250.0
+3	(visit) (administer,administrate) (elect)	6250.0
+3	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate)	6244.0
+4	(administer,administrate) (elect) (cut,reduce) (house)	6236.0
+4	(elect) (administer,administrate) (cut,reduce) (house)	6236.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit)	6096.0
+3	(campaign,run) (elect) (house)	6036.0
+3	(debate) (elect) (house)	6000.0
+3	(debate) (elect) (administer,administrate)	5976.0
+3	(bill) (gore) (administer,administrate)	5940.0
+3	(administer,administrate) (brown) (sign)	5918.0
+3	(administer,administrate) (elect) (cut,reduce)	5764.0
+3	(elect) (administer,administrate) (cut,reduce)	5764.0
+3	(administer,administrate) (brown) (store)	5748.0
+3	(brown) (administer,administrate) (store)	5748.0
+2	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate)	5624.0
+3	(elect) (house) (administer,administrate)	5472.0
+3	(campaign,run) (elect) (administer,administrate)	5342.0
+3	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house)	5000.0
+3	(debate) (house) (visit)	4992.0
+4	(elect) (cut,reduce) (house) (administer,administrate)	4864.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit)	4784.0
+4	(elect) (administer,administrate) (bill) (sign)	4746.0
+2	(campaign,run) (administer,administrate)	4687.0
+2	(administer,administrate) (reduce,cut)	4686.0
+3	(brown) (administer,administrate) (house)	4680.0
+5	(debate) (administer,administrate) (elect) (house) (visit)	4672.0
+4	(campaign,run) (elect) (administer,administrate) (house)	4612.0
+3	(elect) (be) (administer,administrate)	4522.0
+4	(coal) (brown) (administer,administrate) (sign)	4520.0
+3	(brown) (elect) (store)	4372.0
+3	(coal) (elect) (brown)	4372.0
+3	(bill) (elect) (gore)	4323.0
+4	(brown) (administer,administrate) (house) (sign)	4320.0
+3	(brown) (elect) (administer,administrate)	4250.0
+3	(campaign,run) (administer,administrate) (elect)	4202.0
+3	(brown) (store) (administer,administrate)	4128.0
+3	(coal) (administer,administrate) (store)	4124.0
+3	(elect) (be) (cut,reduce)	4124.0
+3	(campaign,run) (elect) (cut,reduce)	4124.0
+2	(administer,administrate) (store)	4124.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house)	4114.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house)	4024.0
+3	(elect) (be) (house)	4024.0
+4	(campaign,run) (elect) (cut,reduce) (house)	4024.0
+4	(campaign,run) (administer,administrate) (elect) (house)	4018.0
+4	(elect) (cut,reduce) (administer,administrate) (house)	3984.0
+2	(bill) (house)	3969.0
+4	(elect) (bill) (gore) (administer,administrate)	3960.0
+3	(administer,administrate) (cut,reduce) (elect)	3960.0
+2	(administer,administrate) (be)	3906.0
+3	(administer,administrate) (cut,reduce) (house)	3798.0
+1	(drive,ride,take,motor)	3750.0
+3	(order) (veto) (sign)	3750.0
+3	(bill) (gore) (sign)	3744.0
+3	(bill) (elect) (sign)	3744.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house)	3568.0
+3	(administer,administrate) (be) (elect)	3542.0
+3	(elect) (bill) (house)	3528.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit)	3488.0
+3	(bill) (sign) (administer,administrate)	3453.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate)	3435.0
+3	(administer,administrate) (brown) (house)	3432.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit)	3328.0
+3	(brown) (store) (sign)	3312.0
+3	(coal) (brown) (sign)	3312.0
+2	(brown) (sign)	3312.0
+3	(administer,administrate) (elect) (brown)	3280.0
+4	(administer,administrate) (brown) (house) (sign)	3168.0
+4	(debate) (elect) (visit) (administer,administrate)	3168.0
+1	(order)	3125.0
+2	(campaign,run) (be)	3125.0
+1	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist)	3125.0
+3	(coal) (elect) (store)	3124.0
+2	(coal) (store)	3124.0
+3	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have)	3124.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect)	3122.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit)	3048.0
+4	(elect) (bill) (sign) (administer,administrate)	3024.0
+2	(debate) (house)	3000.0
+2	(administer,administrate) (house)	2988.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate)	2984.0
+4	(elect) (bill) (administer,administrate) (house)	2928.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (visit)	2912.0
+4	(bill) (elect) (administer,administrate) (sign)	2910.0
+4	(administer,administrate) (cut,reduce) (house) (elect)	2856.0
+4	(coal) (administer,administrate) (brown) (sign)	2828.0
+4	(coal) (brown) (store) (administer,administrate)	2752.0
+4	(administer,administrate) (cut,reduce) (elect) (house)	2700.0
+4	(debate) (administer,administrate) (elect) (house)	2656.0
+4	(elect) (administer,administrate) (gore) (bill)	2640.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (visit)	2540.0
+2	(drive,ride,take,motor) (sign)	2500.0
+2	(drive,ride,take,motor) (be)	2500.0
+2	(represent) (drive,ride,take,motor)	2500.0
+4	(elect) (bill) (gore) (sign)	2496.0
+5	(debate) (elect) (house) (visit) (administer,administrate)	2496.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (visit)	2496.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (administer,administrate)	2464.0
+5	(debate) (administer,administrate) (elect) (visit) (house)	2432.0
+3	(brown) (administer,administrate) (state)	2340.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (visit)	2336.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit)	2336.0
+4	(brown) (store) (administer,administrate) (sign)	2268.0
+4	(administer,administrate) (brown) (store) (sign)	2252.0
+4	(brown) (administer,administrate) (store) (sign)	2252.0
+2	(brown) (house)	2232.0
+3	(coal) (brown) (house)	2232.0
+3	(brown) (store) (house)	2232.0
+4	(coal) (brown) (store) (sign)	2208.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (visit)	2200.0
+4	(elect) (administer,administrate) (bill) (house)	2196.0
+4	(coal) (brown) (administer,administrate) (house)	2184.0
+4	(coal) (brown) (house) (sign)	2160.0
+4	(brown) (administer,administrate) (state) (sign)	2160.0
+3	(brown) (house) (sign)	2160.0
+4	(brown) (store) (house) (sign)	2160.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (administer,administrate)	2080.0
+3	(coal) (elect) (administer,administrate)	2062.0
+3	(administer,administrate) (elect) (store)	2062.0
+3	(campaign,run) (be) (elect)	2062.0
+2	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect)	2062.0
+5	(debate) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	2048.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit)	2032.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit)	2032.0
+5	(coal) (brown) (administer,administrate) (house) (sign)	2016.0
+4	(debate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	2016.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house)	2012.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house)	2012.0
+2	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect)	2000.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house)	2000.0
+4	(bill) (elect) (gore) (administer,administrate)	1980.0
+4	(bill) (administer,administrate) (gore) (sign)	1947.0
+3	(administer,administrate) (house) (elect)	1914.0
+4	(brown) (elect) (administer,administrate) (sign)	1882.0
+1	(reeve)	1875.0
+4	(coal) (administer,administrate) (brown) (house)	1872.0
+4	(campaign,run) (elect) (house) (administer,administrate)	1824.0
+4	(brown) (administer,administrate) (sign) (house)	1800.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (visit)	1752.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (house) (visit)	1752.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house)	1750.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate)	1742.0
+4	(elect) (administer,administrate) (house) (state)	1732.0
+5	(coal) (administer,administrate) (brown) (house) (sign)	1728.0
+5	(debate) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	1728.0
+4	(debate) (elect) (visit) (house)	1728.0
+3	(administer,administrate) (brown) (state)	1716.0
+4	(coal) (administer,administrate) (store) (sign)	1676.0
+3	(administer,administrate) (store) (sign)	1676.0
+3	(coal) (administer,administrate) (sign)	1676.0
+3	(bill) (sign) (house)	1647.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate)	1640.0
+4	(campaign,run) (elect) (cut,reduce) (administer,administrate)	1640.0
+3	(elect) (gore) (bill)	1632.0
+3	(administer,administrate) (store) (brown)	1624.0
+4	(coal) (administer,administrate) (store) (brown)	1624.0
+5	(debate) (administer,administrate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	1600.0
+4	(debate) (elect) (house) (administer,administrate)	1584.0
+4	(administer,administrate) (brown) (state) (sign)	1584.0
+4	(bill) (administer,administrate) (sign) (house)	1575.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	1568.0
+3	(elect) (administer,administrate) (gore)	1562.0
+3	(campaign,run) (administer,administrate) (cut,reduce)	1562.0
+3	(administer,administrate) (be) (cut,reduce)	1562.0
+4	(bill) (administer,administrate) (house) (sign)	1554.0
+5	(debate) (elect) (house) (administer,administrate) (visit)	1536.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (visit)	1524.0
+5	(coal) (brown) (store) (administer,administrate) (sign)	1512.0
+4	(administer,administrate) (brown) (sign) (house)	1500.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house)	1500.0
+4	(coal) (brown) (store) (house)	1488.0
+4	(brown) (store) (sign) (house)	1464.0
+4	(coal) (brown) (sign) (house)	1464.0
+3	(brown) (sign) (house)	1464.0
+4	(elect) (bill) (sign) (house)	1464.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	1440.0
+5	(coal) (brown) (store) (house) (sign)	1440.0
+4	(coal) (elect) (brown) (administer,administrate)	1376.0
+4	(brown) (elect) (store) (administer,administrate)	1376.0
+5	(debate) (elect) (administer,administrate) (visit) (house)	1344.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (house)	1344.0
+3	(bill) (elect) (house)	1323.0
+3	(bill) (gore) (house)	1323.0
+4	(campaign,run) (administer,administrate) (cut,reduce) (elect)	1320.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate)	1320.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect)	1320.0
+4	(administer,administrate) (elect) (house) (state)	1320.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house)	1312.0
+4	(bill) (elect) (administer,administrate) (house)	1281.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate) (visit)	1280.0
+4	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house)	1272.0
+4	(administer,administrate) (elect) (brown) (sign)	1270.0
+4	(campaign,run) (administer,administrate) (cut,reduce) (house)	1266.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house)	1266.0
+3	(campaign,run) (administer,administrate) (house)	1266.0
+2	(campaign,run) (reduce,cut)	1250.0
+3	(campaign,run) (be) (cut,reduce)	1250.0
+2	(elect) (gore)	1250.0
+1	(reduce,cut)	1250.0
+2	(order) (veto)	1250.0
+2	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut)	1250.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect)	1248.0
+4	(brown) (administer,administrate) (store) (house)	1248.0
+4	(administer,administrate) (brown) (store) (house)	1248.0
+4	(debate) (house) (visit) (administer,administrate)	1248.0
+4	(bill) (elect) (gore) (sign)	1248.0
+4	(coal) (elect) (store) (brown)	1248.0
+4	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect)	1248.0
+3	(coal) (store) (brown)	1248.0
+5	(campaign,run) (elect) (cut,reduce) (house) (administer,administrate)	1216.0
+5	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (administer,administrate)	1216.0
+4	(debate) (administer,administrate) (visit) (house)	1216.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (house) (administer,administrate)	1216.0
+4	(brown) (store) (sign) (administer,administrate)	1176.0
+3	(brown) (sign) (administer,administrate)	1176.0
+4	(coal) (brown) (sign) (administer,administrate)	1176.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (house) (visit)	1168.0
+5	(brown) (administer,administrate) (store) (house) (sign)	1152.0
+5	(administer,administrate) (brown) (store) (house) (sign)	1152.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit) (administer,administrate)	1144.0
+4	(bill) (elect) (sign) (administer,administrate)	1134.0
+4	(bill) (gore) (sign) (administer,administrate)	1134.0
+2	(brown) (state)	1116.0
+3	(brown) (store) (state)	1116.0
+3	(coal) (brown) (state)	1116.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit)	1104.0
+4	(brown) (elect) (store) (sign)	1104.0
+3	(brown) (elect) (sign)	1104.0
+4	(coal) (elect) (brown) (sign)	1104.0
+4	(coal) (brown) (administer,administrate) (state)	1092.0
+4	(brown) (store) (state) (sign)	1080.0
+3	(brown) (state) (sign)	1080.0
+4	(coal) (brown) (state) (sign)	1080.0
+4	(elect) (administer,administrate) (sign) (bill)	1056.0
+2	(reeve) (elect)	1050.0
+4	(debate) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	1024.0
+4	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (visit)	1016.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit)	1016.0
+5	(coal) (brown) (administer,administrate) (say,state,tell) (sign)	1008.0
+3	(elect) (house) (state)	1008.0
+4	(coal) (elect) (store) (administer,administrate)	1000.0
+3	(coal) (store) (administer,administrate)	1000.0
+5	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (house)	996.0
+5	(campaign,run) (elect) (cut,reduce) (administer,administrate) (house)	996.0
+5	(coal) (brown) (store) (sign) (house)	976.0
+3	(bill) (house) (sign)	972.0
+3	(bill) (house) (administer,administrate)	972.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (house)	968.0
+4	(bill) (gore) (administer,administrate) (sign)	963.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house)	956.0
+4	(campaign,run) (administer,administrate) (house) (elect)	952.0
+5	(campaign,run) (administer,administrate) (cut,reduce) (house) (elect)	952.0
+5	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (elect)	952.0
+4	(brown) (elect) (administer,administrate) (house)	936.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect)	936.0
+4	(coal) (administer,administrate) (brown) (state)	936.0
+4	(brown) (store) (administer,administrate) (house)	936.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit) (house)	912.0
+5	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (house)	900.0
+5	(campaign,run) (administer,administrate) (cut,reduce) (elect) (house)	900.0
+4	(brown) (administer,administrate) (sign) (state)	900.0
+4	(elect) (cut,reduce) (house) (state)	896.0
+2	(administer,administrate) (sign)	885.0
+4	(elect) (bill) (gore) (house)	882.0
+4	(coal) (elect) (store) (sign)	864.0
+5	(brown) (store) (administer,administrate) (house) (sign)	864.0
+4	(elect) (bill) (house) (administer,administrate)	864.0
+4	(elect) (bill) (house) (sign)	864.0
+5	(coal) (administer,administrate) (brown) (say,state,tell) (sign)	864.0
+5	(brown) (elect) (administer,administrate) (house) (sign)	864.0
+3	(coal) (store) (sign)	864.0
+4	(debate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	864.0
+4	(coal) (elect) (administer,administrate) (sign)	838.0
+4	(administer,administrate) (elect) (store) (sign)	838.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit)	832.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit) (administer,administrate)	832.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate)	820.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate)	820.0
+4	(coal) (elect) (administer,administrate) (brown)	812.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect)	812.0
+4	(administer,administrate) (elect) (store) (brown)	812.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect)	812.0
+2	(cut,reduce) (elect)	812.0
+3	(campaign,run) (cut,reduce) (elect)	812.0
+3	(elect) (administer,administrate) (state)	802.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house)	796.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house)	796.0
+2	(cut,reduce) (house)	796.0
+3	(campaign,run) (cut,reduce) (house)	796.0
+3	(debate) (house) (administer,administrate)	792.0
+5	(coal) (brown) (store) (sign) (administer,administrate)	784.0
+2	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate)	781.0
+3	(campaign,run) (be) (administer,administrate)	781.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate)	781.0
+4	(administer,administrate) (elect) (brown) (house)	780.0
+5	(debate) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	768.0
+4	(debate) (house) (administer,administrate) (visit)	768.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	768.0
+5	(coal) (elect) (brown) (administer,administrate) (sign)	756.0
+5	(brown) (elect) (store) (administer,administrate) (sign)	756.0
+5	(elect) (bill) (gore) (sign) (administer,administrate)	756.0
+2	(reeve) (campaign)	750.0
+4	(administer,administrate) (brown) (sign) (state)	750.0
+4	(coal) (elect) (brown) (house)	744.0
+3	(brown) (elect) (house)	744.0
+4	(coal) (brown) (store) (state)	744.0
+4	(brown) (elect) (store) (house)	744.0
+3	(brown) (sign) (state)	732.0
+4	(coal) (brown) (sign) (state)	732.0
+4	(bill) (administer,administrate) (gore) (house)	732.0
+4	(brown) (store) (sign) (state)	732.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	728.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (visit) (administer,administrate)	728.0
+5	(administer,administrate) (elect) (brown) (house) (sign)	720.0
+4	(brown) (elect) (house) (sign)	720.0
+5	(brown) (elect) (store) (house) (sign)	720.0
+5	(coal) (brown) (store) (say,state,tell) (sign)	720.0
+5	(coal) (elect) (brown) (house) (sign)	720.0
+2	(elect) (campaign)	700.0
+3	(elect) (administer,administrate) (sign)	688.0
+5	(elect) (bill) (administer,administrate) (house) (sign)	672.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit)	664.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect)	660.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect)	660.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (house)	656.0
+5	(elect) (bill) (gore) (administer,administrate) (sign)	642.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit) (house)	640.0
+6	(debate) (administer,administrate) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	640.0
+3	(administer,administrate) (be) (house)	633.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house)	633.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house)	633.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (visit) (administer,administrate)	624.0
+5	(coal) (brown) (store) (administer,administrate) (house)	624.0
+4	(coal) (administer,administrate) (store) (house)	624.0
+4	(administer,administrate) (store) (brown) (house)	624.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit) (house)	624.0
+4	(brown) (administer,administrate) (store) (state)	624.0
+4	(administer,administrate) (brown) (store) (state)	624.0
+3	(coal) (administer,administrate) (house)	624.0
+3	(administer,administrate) (store) (house)	624.0
+5	(coal) (administer,administrate) (store) (brown) (house)	624.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (elect)	616.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (elect)	616.0
+4	(campaign,run) (cut,reduce) (house) (elect)	616.0
+3	(reduce,cut) (house) (elect)	616.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (administer,administrate)	608.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (administer,administrate)	608.0
+4	(administer,administrate) (store) (sign) (house)	600.0
+4	(coal) (administer,administrate) (sign) (house)	600.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (house)	600.0
+5	(coal) (brown) (administer,administrate) (sign) (house)	600.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (house)	600.0
+3	(reduce,cut) (elect) (house)	600.0
+4	(campaign,run) (cut,reduce) (elect) (house)	600.0
+5	(coal) (administer,administrate) (store) (sign) (house)	600.0
+5	(administer,administrate) (brown) (store) (sign) (house)	600.0
+5	(brown) (administer,administrate) (store) (sign) (house)	600.0
+5	(coal) (administer,administrate) (brown) (sign) (house)	600.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (house) (visit)	584.0
+4	(elect) (gore) (bill) (administer,administrate)	582.0
+5	(coal) (administer,administrate) (store) (house) (sign)	576.0
+4	(administer,administrate) (store) (brown) (sign)	576.0
+3	(brown) (house) (administer,administrate)	576.0
+6	(coal) (administer,administrate) (store) (brown) (house) (sign)	576.0
+5	(administer,administrate) (brown) (store) (say,state,tell) (sign)	576.0
+6	(coal) (brown) (store) (administer,administrate) (house) (sign)	576.0
+5	(debate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	576.0
+5	(debate) (elect) (visit) (administer,administrate) (house)	576.0
+4	(coal) (administer,administrate) (house) (sign)	576.0
+4	(debate) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	576.0
+5	(coal) (administer,administrate) (store) (brown) (sign)	576.0
+4	(brown) (store) (house) (administer,administrate)	576.0
+5	(administer,administrate) (store) (brown) (house) (sign)	576.0
+4	(administer,administrate) (store) (house) (sign)	576.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	576.0
+4	(coal) (brown) (house) (administer,administrate)	576.0
+5	(brown) (administer,administrate) (store) (say,state,tell) (sign)	576.0
+4	(bill) (gore) (sign) (house)	549.0
+4	(bill) (elect) (sign) (house)	549.0
+4	(bill) (gore) (administer,administrate) (house)	549.0
+5	(elect) (administer,administrate) (gore) (sign) (bill)	528.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate)	528.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate) (visit)	512.0
+6	(debate) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	512.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (visit)	508.0
+3	(administer,administrate) (elect) (state)	506.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	504.0
+5	(elect) (administer,administrate) (bill) (house) (sign)	504.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house)	500.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate)	498.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate) (house)	498.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate) (house)	498.0
+5	(coal) (elect) (store) (brown) (house)	496.0
+4	(coal) (store) (brown) (house)	496.0
+5	(brown) (elect) (store) (sign) (house)	488.0
+5	(coal) (elect) (store) (sign) (house)	488.0
+4	(coal) (store) (sign) (house)	488.0
+4	(brown) (elect) (sign) (house)	488.0
+5	(coal) (brown) (store) (sign) (state)	488.0
+5	(coal) (elect) (brown) (sign) (house)	488.0
+5	(coal) (store) (brown) (house) (sign)	480.0
+6	(coal) (elect) (store) (brown) (house) (sign)	480.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (elect)	476.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (house) (elect)	476.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (elect)	476.0
+4	(brown) (elect) (administer,administrate) (state)	468.0
+2	(reeve) (administer,administrate)	468.0
+4	(brown) (store) (administer,administrate) (state)	468.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (administer,administrate)	462.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit) (house)	456.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect) (house)	450.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect) (house)	450.0
+5	(elect) (administer,administrate) (bill) (sign) (house)	450.0
+5	(elect) (bill) (administer,administrate) (sign) (house)	450.0
+1	(house)	448.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (administer,administrate) (house)	448.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (administer,administrate) (visit)	448.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	448.0
+5	(coal) (elect) (store) (administer,administrate) (sign)	444.0
+4	(coal) (store) (administer,administrate) (sign)	444.0
+4	(bill) (elect) (gore) (house)	441.0
+5	(brown) (store) (administer,administrate) (say,state,tell) (sign)	432.0
+5	(brown) (elect) (administer,administrate) (say,state,tell) (sign)	432.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	432.0
+4	(elect) (gore) (administer,administrate) (bill)	426.0
+5	(elect) (administer,administrate) (gore) (bill) (sign)	426.0
+3	(administer,administrate) (elect) (sign)	419.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit)	416.0
+4	(elect) (house) (administer,administrate) (state)	396.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (administer,administrate)	396.0
+5	(administer,administrate) (elect) (cut,reduce) (house) (state)	392.0
+5	(brown) (elect) (store) (sign) (administer,administrate)	392.0
+5	(elect) (administer,administrate) (cut,reduce) (house) (state)	392.0
+5	(coal) (elect) (brown) (sign) (administer,administrate)	392.0
+4	(brown) (elect) (sign) (administer,administrate)	392.0
+4	(administer,administrate) (elect) (brown) (state)	390.0
+5	(coal) (brown) (store) (house) (administer,administrate)	384.0
+4	(debate) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	384.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	384.0
+5	(debate) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	384.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (administer,administrate) (visit)	384.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	384.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (visit) (house)	384.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (visit) (house)	380.0
+4	(bill) (ratify,sign) (house) (administer,administrate)	378.0
+5	(bill) (elect) (gore) (sign) (administer,administrate)	378.0
+5	(coal) (elect) (store) (brown) (administer,administrate)	376.0
+4	(coal) (store) (brown) (administer,administrate)	376.0
+1	(meet,encounter)	374.0
+3	(brown) (elect) (state)	372.0
+4	(brown) (elect) (store) (state)	372.0
+4	(coal) (elect) (brown) (state)	372.0
+4	(coal) (store) (sign) (administer,administrate)	368.0
+5	(coal) (elect) (store) (sign) (administer,administrate)	368.0
+5	(elect) (bill) (gore) (administer,administrate) (house)	366.0
+5	(elect) (administer,administrate) (gore) (bill) (house)	366.0
+4	(elect) (gore) (sign) (bill)	366.0
+5	(elect) (bill) (gore) (sign) (house)	366.0
+4	(brown) (elect) (state) (sign)	360.0
+5	(administer,administrate) (elect) (brown) (say,state,tell) (sign)	360.0
+5	(coal) (elect) (brown) (say,state,tell) (sign)	360.0
+5	(brown) (elect) (store) (say,state,tell) (sign)	360.0
+5	(elect) (cut,reduce) (house) (administer,administrate) (state)	352.0
+4	(elect) (administer,administrate) (gore) (sign)	344.0
+5	(coal) (brown) (ratify,sign) (house) (administer,administrate)	336.0
+5	(brown) (store) (ratify,sign) (house) (administer,administrate)	336.0
+4	(campaign,run) (elect) (house) (state)	336.0
+5	(elect) (bill) (ratify,sign) (house) (administer,administrate)	336.0
+4	(brown) (ratify,sign) (house) (administer,administrate)	336.0
+4	(bill) (elect) (house) (administer,administrate)	324.0
+4	(bill) (gore) (house) (sign)	324.0
+4	(bill) (elect) (house) (sign)	324.0
+4	(bill) (gore) (house) (administer,administrate)	324.0
+5	(bill) (elect) (gore) (administer,administrate) (sign)	321.0
+4	(debate) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	320.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	320.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	320.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	320.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	320.0
+5	(elect) (cut,reduce) (administer,administrate) (house) (state)	320.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (house)	318.0
+5	(campaign,run) (elect) (administer,administrate) (house) (state)	316.0
+3	(administer,administrate) (store) (state)	312.0
+4	(coal) (administer,administrate) (store) (state)	312.0
+4	(administer,administrate) (store) (brown) (state)	312.0
+4	(coal) (store) (administer,administrate) (house)	312.0
+2	(cut,reduce) (administer,administrate)	312.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate)	312.0
+4	(coal) (elect) (administer,administrate) (house)	312.0
+5	(coal) (brown) (store) (administer,administrate) (state)	312.0
+5	(coal) (elect) (brown) (administer,administrate) (house)	312.0
+5	(brown) (elect) (store) (administer,administrate) (house)	312.0
+5	(coal) (administer,administrate) (store) (brown) (state)	312.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate)	312.0
+5	(administer,administrate) (elect) (store) (brown) (house)	312.0
+3	(coal) (administer,administrate) (state)	312.0
+6	(coal) (elect) (store) (brown) (administer,administrate) (sign)	312.0
+4	(administer,administrate) (elect) (store) (house)	312.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect)	312.0
+5	(coal) (store) (brown) (administer,administrate) (sign)	312.0
+5	(coal) (elect) (administer,administrate) (brown) (house)	312.0
+3	(campaign,run) (cut,reduce) (administer,administrate)	312.0
+3	(elect) (gore) (administer,administrate)	312.0
+5	(coal) (elect) (store) (administer,administrate) (house)	312.0
+4	(elect) (cut,reduce) (administer,administrate) (state)	304.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit) (house)	304.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (house)	304.0
+5	(brown) (elect) (administer,administrate) (sign) (house)	300.0
+5	(administer,administrate) (elect) (brown) (sign) (house)	300.0
+4	(administer,administrate) (store) (sign) (state)	300.0
+5	(coal) (brown) (administer,administrate) (sign) (state)	300.0
+5	(administer,administrate) (brown) (store) (sign) (state)	300.0
+5	(administer,administrate) (elect) (store) (sign) (house)	300.0
+5	(brown) (administer,administrate) (store) (sign) (state)	300.0
+5	(coal) (administer,administrate) (brown) (sign) (state)	300.0
+3	(reeve) (campaign) (elect)	300.0
+5	(coal) (elect) (administer,administrate) (sign) (house)	300.0
+3	(administer,administrate) (sign) (house)	300.0
+4	(coal) (administer,administrate) (sign) (state)	300.0
+5	(coal) (administer,administrate) (store) (sign) (state)	300.0
+4	(elect) (gore) (bill) (house)	294.0
+5	(bill) (elect) (administer,administrate) (house) (sign)	294.0
+5	(administer,administrate) (store) (brown) (say,state,tell) (sign)	288.0
+4	(brown) (store) (state) (administer,administrate)	288.0
+3	(administer,administrate) (house) (sign)	288.0
+5	(administer,administrate) (elect) (store) (house) (sign)	288.0
+6	(brown) (elect) (store) (administer,administrate) (house) (sign)	288.0
+6	(coal) (elect) (brown) (administer,administrate) (house) (sign)	288.0
+6	(coal) (elect) (administer,administrate) (brown) (house) (sign)	288.0
+3	(brown) (state) (administer,administrate)	288.0
+5	(coal) (store) (administer,administrate) (house) (sign)	288.0
+5	(debate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	288.0
+6	(coal) (administer,administrate) (store) (brown) (say,state,tell) (sign)	288.0
+4	(coal) (administer,administrate) (state) (sign)	288.0
+4	(administer,administrate) (store) (state) (sign)	288.0
+6	(coal) (brown) (store) (administer,administrate) (say,state,tell) (sign)	288.0
+6	(administer,administrate) (elect) (store) (brown) (house) (sign)	288.0
+5	(coal) (elect) (administer,administrate) (house) (sign)	288.0
+6	(coal) (elect) (store) (administer,administrate) (house) (sign)	288.0
+5	(administer,administrate) (elect) (store) (brown) (sign)	288.0
+5	(coal) (administer,administrate) (store) (say,state,tell) (sign)	288.0
+5	(coal) (elect) (administer,administrate) (brown) (sign)	288.0
+4	(coal) (brown) (state) (administer,administrate)	288.0
+5	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (state)	276.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (administer,administrate)	276.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (administer,administrate)	276.0
+4	(campaign,run) (cut,reduce) (elect) (administer,administrate)	276.0
+3	(reduce,cut) (elect) (administer,administrate)	276.0
+2	(meet,encounter) (house)	268.0
+5	(campaign,run) (administer,administrate) (elect) (house) (state)	268.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (administer,administrate)	264.0
+3	(reeve) (elect) (administer,administrate)	258.0
+3	(reeve) (elect) (general)	258.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	256.0
+5	(debate) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	256.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (administer,administrate)	256.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	256.0
+3	(reduce,cut) (house) (administer,administrate)	256.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (administer,administrate)	256.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	256.0
+4	(campaign,run) (cut,reduce) (house) (administer,administrate)	256.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (visit)	254.0
+2	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house)	250.0
+3	(elect) (gore) (sign)	250.0
+4	(coal) (store) (brown) (state)	248.0
+4	(coal) (elect) (store) (house)	248.0
+3	(coal) (store) (house)	248.0
+5	(coal) (elect) (store) (brown) (state)	248.0
+5	(coal) (elect) (brown) (sign) (state)	244.0
+5	(brown) (elect) (store) (sign) (state)	244.0
+2	(elect) (state)	244.0
+5	(coal) (elect) (store) (sign) (state)	244.0
+4	(brown) (elect) (sign) (state)	244.0
+4	(coal) (store) (sign) (state)	244.0
+5	(coal) (elect) (store) (house) (sign)	240.0
+4	(coal) (store) (brown) (sign)	240.0
+6	(coal) (elect) (store) (brown) (say,state,tell) (sign)	240.0
+4	(coal) (store) (house) (sign)	240.0
+5	(coal) (elect) (store) (brown) (sign)	240.0
+5	(coal) (store) (brown) (say,state,tell) (sign)	240.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	240.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	240.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (elect)	232.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (elect)	232.0
+3	(reduce,cut) (administer,administrate) (elect)	232.0
+4	(campaign,run) (cut,reduce) (administer,administrate) (elect)	232.0
+5	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (state)	232.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (visit) (house)	228.0
+5	(bill) (elect) (administer,administrate) (sign) (house)	225.0
+5	(bill) (administer,administrate) (gore) (sign) (house)	225.0
+5	(campaign,run) (elect) (cut,reduce) (house) (state)	224.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	224.0
+6	(coal) (brown) (store) (ratify,sign) (house) (administer,administrate)	224.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (house) (state)	224.0
+5	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (state)	224.0
+4	(elect) (gore) (bill) (sign)	216.0
+5	(coal) (brown) (house) (sign) (administer,administrate)	216.0
+5	(administer,administrate) (cut,reduce) (elect) (house) (state)	216.0
+4	(brown) (house) (administer,administrate) (sign)	216.0
+4	(brown) (house) (sign) (administer,administrate)	216.0
+5	(brown) (store) (house) (administer,administrate) (sign)	216.0
+5	(elect) (bill) (gore) (house) (administer,administrate)	216.0
+5	(brown) (store) (house) (sign) (administer,administrate)	216.0
+5	(elect) (bill) (gore) (house) (sign)	216.0
+5	(coal) (brown) (house) (administer,administrate) (sign)	216.0
+5	(administer,administrate) (cut,reduce) (house) (elect) (state)	216.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (house)	214.0
+3	(reduce,cut) (administer,administrate) (house)	214.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (house)	214.0
+4	(campaign,run) (cut,reduce) (administer,administrate) (house)	214.0
+2	(administer,administrate) (bill)	213.0
+2	(sign) (bill)	213.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit) (administer,administrate) (house)	208.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit) (administer,administrate)	208.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	208.0
+2	(house) (meet)	196.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	192.0
+5	(coal) (elect) (brown) (house) (administer,administrate)	192.0
+4	(debate) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	192.0
+5	(coal) (brown) (store) (say,state,tell) (administer,administrate)	192.0
+3	(debate) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	192.0
+5	(brown) (elect) (store) (house) (administer,administrate)	192.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	192.0
+5	(debate) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	192.0
+4	(brown) (elect) (house) (administer,administrate)	192.0
+6	(debate) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	192.0
+5	(debate) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	192.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	192.0
+6	(debate) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	192.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	192.0
+4	(debate) (elect) (administer,administrate) (house)	192.0
+3	(reeve) (campaign) (administer,administrate)	186.0
+3	(reeve) (campaign) (general)	186.0
+3	(reeve) (administer,administrate) (elect)	186.0
+5	(bill) (elect) (gore) (administer,administrate) (house)	183.0
+5	(bill) (elect) (gore) (sign) (house)	183.0
+3	(reeve) (elect) (letter)	180.0
+3	(elect) (administer,administrate) (letter)	180.0
+4	(reeve) (campaign) (elect) (letter)	180.0
+3	(elect) (campaign) (general)	172.0
+3	(elect) (campaign) (administer,administrate)	172.0
+2	(elect) (general)	172.0
+2	(house) (administer,administrate)	170.0
+5	(bill) (administer,administrate) (gore) (house) (sign)	168.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	168.0
+5	(coal) (brown) (ratify,sign) (say,state,tell) (administer,administrate)	168.0
+4	(brown) (ratify,sign) (state) (administer,administrate)	168.0
+5	(brown) (store) (ratify,sign) (say,state,tell) (administer,administrate)	168.0
+4	(campaign,run) (elect) (administer,administrate) (state)	168.0
+3	(elect) (administer,administrate) (general)	166.0
+2	(administer,administrate) (state)	160.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	160.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	160.0
+4	(administer,administrate) (elect) (store) (state)	156.0
+5	(brown) (elect) (store) (administer,administrate) (state)	156.0
+5	(coal) (elect) (store) (administer,administrate) (state)	156.0
+4	(coal) (store) (administer,administrate) (state)	156.0
+5	(coal) (elect) (brown) (administer,administrate) (state)	156.0
+4	(administer,administrate) (cut,reduce) (elect) (state)	156.0
+4	(coal) (elect) (administer,administrate) (state)	156.0
+4	(administer,administrate) (cut,reduce) (house) (state)	156.0
+5	(coal) (elect) (administer,administrate) (brown) (state)	156.0
+4	(elect) (administer,administrate) (sign) (house)	156.0
+5	(administer,administrate) (elect) (store) (brown) (state)	156.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (visit) (house)	152.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit) (house)	152.0
+3	(reeve) (campaign) (state)	150.0
+5	(coal) (elect) (administer,administrate) (sign) (state)	150.0
+5	(brown) (elect) (administer,administrate) (sign) (state)	150.0
+3	(administer,administrate) (sign) (state)	150.0
+4	(administer,administrate) (elect) (sign) (house)	150.0
+5	(administer,administrate) (elect) (brown) (sign) (state)	150.0
+3	(reeve) (elect) (state)	150.0
+5	(administer,administrate) (elect) (store) (sign) (state)	150.0
+4	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	144.0
+5	(coal) (store) (administer,administrate) (say,state,tell) (sign)	144.0
+5	(administer,administrate) (elect) (store) (say,state,tell) (sign)	144.0
+6	(administer,administrate) (elect) (store) (brown) (say,state,tell) (sign)	144.0
+5	(elect) (administer,administrate) (ratify,sign) (house) (bill)	144.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (house)	144.0
+4	(administer,administrate) (elect) (house) (sign)	144.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	144.0
+5	(coal) (elect) (administer,administrate) (say,state,tell) (sign)	144.0
+6	(coal) (elect) (administer,administrate) (brown) (say,state,tell) (sign)	144.0
+6	(brown) (elect) (store) (administer,administrate) (say,state,tell) (sign)	144.0
+6	(coal) (elect) (brown) (administer,administrate) (say,state,tell) (sign)	144.0
+4	(administer,administrate) (house) (elect) (state)	144.0
+6	(coal) (brown) (store) (house) (sign) (administer,administrate)	144.0
+3	(administer,administrate) (state) (sign)	144.0
+6	(coal) (elect) (store) (administer,administrate) (say,state,tell) (sign)	144.0
+6	(coal) (brown) (store) (house) (administer,administrate) (sign)	144.0
+3	(reeve) (administer,administrate) (general)	141.0
+5	(campaign,run) (elect) (house) (administer,administrate) (state)	132.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate)	132.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (state)	130.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	128.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	128.0
+5	(debate) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	128.0
+5	(coal) (store) (brown) (house) (administer,administrate)	128.0
+5	(debate) (administer,administrate) (elect) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	128.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate) (visit)	128.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	128.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (house)	128.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	128.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	128.0
+6	(coal) (elect) (store) (brown) (house) (administer,administrate)	128.0
+3	(elect) (cut,reduce) (state)	128.0
+5	(debate) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	128.0
+5	(bill) (gore) (administer,administrate) (house) (sign)	126.0
+5	(bill) (elect) (ratify,sign) (house) (administer,administrate)	126.0
+5	(bill) (gore) (ratify,sign) (house) (administer,administrate)	126.0
+4	(coal) (elect) (store) (state)	124.0
+3	(coal) (store) (state)	124.0
+4	(coal) (store) (state) (sign)	120.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (house) (administer,administrate)	120.0
+4	(reduce,cut) (elect) (house) (administer,administrate)	120.0
+5	(coal) (elect) (store) (say,state,tell) (sign)	120.0
+4	(elect) (administer,administrate) (house) (bill)	120.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (house) (administer,administrate)	120.0
+2	(elect) (letter)	120.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (elect) (administer,administrate)	120.0
+4	(reduce,cut) (house) (elect) (administer,administrate)	120.0
+5	(campaign,run) (cut,reduce) (elect) (house) (administer,administrate)	120.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (elect) (administer,administrate)	120.0
+3	(elect) (campaign) (letter)	120.0
+5	(campaign,run) (cut,reduce) (house) (elect) (administer,administrate)	120.0
+6	(coal) (brown) (store) (ratify,sign) (say,state,tell) (administer,administrate)	112.0
+6	(coal) (elect) (store) (ratify,sign) (house) (administer,administrate)	112.0
+5	(coal) (store) (ratify,sign) (house) (administer,administrate)	112.0
+5	(brown) (elect) (ratify,sign) (house) (administer,administrate)	112.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (administer,administrate) (elect)	112.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	112.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (administer,administrate) (elect)	112.0
+6	(brown) (elect) (store) (ratify,sign) (house) (administer,administrate)	112.0
+6	(coal) (elect) (brown) (ratify,sign) (house) (administer,administrate)	112.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (state)	112.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (state)	112.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit) (house)	112.0
+5	(campaign,run) (cut,reduce) (house) (administer,administrate) (elect)	112.0
+4	(reduce,cut) (house) (administer,administrate) (elect)	112.0
+2	(meet,encounter) (administer,administrate)	110.0
+5	(coal) (brown) (state) (administer,administrate) (sign)	108.0
+4	(reeve) (administer,administrate) (elect) (letter)	108.0
+4	(reeve) (elect) (general) (letter)	108.0
+4	(reeve) (campaign) (administer,administrate) (letter)	108.0
+5	(brown) (store) (state) (sign) (administer,administrate)	108.0
+4	(brown) (state) (sign) (administer,administrate)	108.0
+4	(reeve) (elect) (administer,administrate) (letter)	108.0
+5	(coal) (brown) (state) (sign) (administer,administrate)	108.0
+4	(elect) (administer,administrate) (cut,reduce) (state)	108.0
+4	(reeve) (campaign) (state) (letter)	108.0
+4	(reeve) (campaign) (general) (letter)	108.0
+5	(bill) (elect) (gore) (house) (sign)	108.0
+5	(bill) (elect) (gore) (house) (administer,administrate)	108.0
+4	(reeve) (elect) (state) (letter)	108.0
+5	(brown) (store) (state) (administer,administrate) (sign)	108.0
+4	(administer,administrate) (elect) (cut,reduce) (state)	108.0
+4	(brown) (state) (administer,administrate) (sign)	108.0
+4	(campaign,run) (administer,administrate) (elect) (state)	106.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (administer,administrate)	104.0
+4	(reduce,cut) (administer,administrate) (house) (elect)	104.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (house) (elect)	104.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	104.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (house) (elect)	104.0
+3	(administer,administrate) (house) (state)	104.0
+5	(campaign,run) (cut,reduce) (administer,administrate) (house) (elect)	104.0
+5	(elect) (gore) (bill) (administer,administrate) (sign)	102.0
+3	(elect) (campaign) (state)	100.0
+3	(reeve) (administer,administrate) (state)	99.0
+4	(brown) (elect) (state) (administer,administrate)	96.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	96.0
+5	(debate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	96.0
+5	(brown) (elect) (store) (say,state,tell) (administer,administrate)	96.0
+5	(coal) (elect) (brown) (say,state,tell) (administer,administrate)	96.0
+6	(debate) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	96.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	96.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (administer,administrate) (house)	92.0
+4	(reduce,cut) (elect) (administer,administrate) (house)	92.0
+5	(campaign,run) (cut,reduce) (elect) (administer,administrate) (house)	92.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (administer,administrate) (house)	92.0
+5	(elect) (gore) (administer,administrate) (bill) (sign)	90.0
+4	(reduce,cut) (administer,administrate) (elect) (house)	88.0
+6	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (administer,administrate) (posit,submit,state,put_forward)	88.0
+5	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (house) (administer,administrate) (state)	88.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (elect) (house)	88.0
+6	(campaign,run) (elect) (reduce,cut) (house) (administer,administrate) (posit,submit,state,put_forward)	88.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (elect) (house)	88.0
+5	(campaign,run) (cut,reduce) (administer,administrate) (elect) (house)	88.0
+5	(elect) (gore) (ratify,sign) (bill) (administer,administrate)	84.0
+6	(elect) (bill) (gore) (ratify,sign) (house) (administer,administrate)	84.0
+6	(elect) (bill) (gore) (administer,administrate) (house) (sign)	84.0
+6	(elect) (administer,administrate) (gore) (bill) (house) (sign)	84.0
+4	(bill) (house) (administer,administrate) (sign)	81.0
+4	(bill) (house) (sign) (administer,administrate)	81.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (state)	80.0
+5	(debate) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	80.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	80.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	80.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	80.0
+6	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (house) (posit,submit,state,put_forward)	80.0
+6	(campaign,run) (elect) (reduce,cut) (administer,administrate) (house) (posit,submit,state,put_forward)	80.0
+4	(elect) (gore) (sign) (administer,administrate)	78.0
+5	(elect) (administer,administrate) (gore) (sign) (house)	78.0
+2	(administer,administrate) (meet)	78.0
+5	(campaign,run) (elect) (cut,reduce) (administer,administrate) (state)	76.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (visit) (house)	76.0
+5	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (state)	76.0
+4	(administer,administrate) (elect) (sign) (state)	75.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	72.0
+4	(reeve) (elect) (letter) (assassinate)	72.0
+4	(elect) (campaign) (state) (letter)	72.0
+4	(reeve) (campaign) (elect) (general)	72.0
+3	(elect) (state) (letter)	72.0
+6	(brown) (elect) (store) (house) (administer,administrate) (sign)	72.0
+6	(coal) (elect) (brown) (house) (sign) (administer,administrate)	72.0
+6	(campaign,run) (administer,administrate) (reduce,cut) (elect) (house) (posit,submit,state,put_forward)	72.0
+6	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (elect) (posit,submit,state,put_forward)	72.0
+6	(coal) (brown) (store) (say,state,tell) (administer,administrate) (sign)	72.0
+4	(elect) (campaign) (administer,administrate) (letter)	72.0
+6	(coal) (brown) (store) (say,state,tell) (sign) (administer,administrate)	72.0
+4	(reeve) (campaign) (elect) (administer,administrate)	72.0
+5	(reeve) (campaign) (elect) (letter) (assassinate)	72.0
+6	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (house) (posit,submit,state,put_forward)	72.0
+3	(elect) (general) (letter)	72.0
+6	(brown) (elect) (store) (house) (sign) (administer,administrate)	72.0
+5	(elect) (gore) (ratify,sign) (administer,administrate) (bill)	72.0
+6	(elect) (administer,administrate) (gore) (ratify,sign) (house) (bill)	72.0
+6	(coal) (elect) (brown) (house) (administer,administrate) (sign)	72.0
+4	(elect) (campaign) (general) (letter)	72.0
+5	(campaign,run) (administer,administrate) (house) (elect) (state)	72.0
+5	(brown) (elect) (house) (sign) (administer,administrate)	72.0
+5	(elect) (bill) (house) (sign) (administer,administrate)	72.0
+5	(elect) (gore) (bill) (house) (administer,administrate)	72.0
+4	(administer,administrate) (elect) (state) (sign)	72.0
+5	(elect) (bill) (house) (administer,administrate) (sign)	72.0
+5	(brown) (elect) (house) (administer,administrate) (sign)	72.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	72.0
+6	(campaign,run) (administer,administrate) (reduce,cut) (house) (elect) (posit,submit,state,put_forward)	72.0
+5	(elect) (gore) (bill) (house) (sign)	72.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate)	66.0
+7	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	64.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	64.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (house)	64.0
+7	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	64.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	64.0
+4	(debate) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	64.0
+7	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	64.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	64.0
+4	(coal) (store) (house) (administer,administrate)	64.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	64.0
+5	(coal) (store) (brown) (say,state,tell) (administer,administrate)	64.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	64.0
+5	(coal) (elect) (store) (house) (administer,administrate)	64.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	64.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate) (visit)	64.0
+4	(debate) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	64.0
+6	(coal) (elect) (store) (brown) (say,state,tell) (administer,administrate)	64.0
+7	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	64.0
+4	(reeve) (administer,administrate) (state) (letter)	63.0
+4	(reeve) (administer,administrate) (general) (letter)	63.0
+4	(elect) (gore) (administer,administrate) (house)	62.0
+4	(elect) (gore) (sign) (house)	62.0
+4	(elect) (administer,administrate) (gore) (house)	62.0
+5	(elect) (administer,administrate) (gore) (house) (bill)	60.0
+5	(elect) (gore) (ratify,sign) (house) (bill)	60.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	60.0
+4	(reeve) (elect) (general) (administer,administrate)	60.0
+4	(elect) (administer,administrate) (letter) (assassinate)	60.0
+5	(elect) (gore) (administer,administrate) (house) (bill)	60.0
+4	(reeve) (elect) (administer,administrate) (general)	60.0
+5	(coal) (store) (ratify,sign) (say,state,tell) (administer,administrate)	56.0
+6	(coal) (elect) (store) (ratify,sign) (say,state,tell) (administer,administrate)	56.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	56.0
+5	(brown) (elect) (ratify,sign) (say,state,tell) (administer,administrate)	56.0
+6	(coal) (elect) (brown) (ratify,sign) (say,state,tell) (administer,administrate)	56.0
+6	(brown) (elect) (store) (ratify,sign) (say,state,tell) (administer,administrate)	56.0
+3	(meet,encounter) (house) (administer,administrate)	56.0
+3	(reeve) (administer,administrate) (letter)	54.0
+4	(campaign,run) (administer,administrate) (house) (state)	52.0
+5	(campaign,run) (administer,administrate) (cut,reduce) (house) (state)	52.0
+5	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (state)	52.0
+5	(campaign,run) (administer,administrate) (cut,reduce) (elect) (state)	52.0
+5	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (state)	52.0
+3	(meet,encounter) (administer,administrate) (house)	52.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (elect) (posit,submit,state,put_forward)	48.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	48.0
+4	(reeve) (campaign) (general) (administer,administrate)	48.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (house) (state)	48.0
+7	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	48.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	48.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (house) (posit,submit,state,put_forward)	48.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (administer,administrate) (house)	48.0
+5	(campaign,run) (cut,reduce) (elect) (house) (state)	48.0
+4	(reeve) (campaign) (administer,administrate) (general)	48.0
+7	(coal) (elect) (store) (brown) (house) (administer,administrate) (sign)	48.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	48.0
+4	(reduce,cut) (house) (elect) (state)	48.0
+3	(campaign,run) (elect) (state)	48.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (elect) (state)	48.0
+4	(elect) (campaign) (letter) (assassinate)	48.0
+4	(reeve) (administer,administrate) (elect) (general)	48.0
+7	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	48.0
+7	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	48.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	48.0
+6	(coal) (store) (brown) (house) (sign) (administer,administrate)	48.0
+5	(campaign,run) (cut,reduce) (house) (elect) (state)	48.0
+3	(house) (meet) (administer,administrate)	48.0
+4	(reduce,cut) (elect) (house) (state)	48.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	48.0
+3	(elect) (letter) (assassinate)	48.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	48.0
+6	(coal) (store) (brown) (house) (administer,administrate) (sign)	48.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	48.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	48.0
+5	(debate) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	48.0
+7	(coal) (elect) (store) (brown) (house) (sign) (administer,administrate)	48.0
+3	(ratify,sign) (bill) (administer,administrate)	45.0
+3	(administer,administrate) (bill) (sign)	45.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (administer,administrate) (state)	44.0
+3	(administer,administrate) (meet) (house)	44.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (house) (administer,administrate) (posit,submit,state,put_forward)	44.0
+4	(reeve) (elect) (state) (administer,administrate)	42.0
+4	(elect) (administer,administrate) (general) (letter)	42.0
+6	(bill) (elect) (gore) (ratify,sign) (house) (administer,administrate)	42.0
+4	(reeve) (campaign) (state) (administer,administrate)	42.0
+4	(reeve) (elect) (state) (general)	42.0
+4	(elect) (administer,administrate) (state) (letter)	42.0
+6	(bill) (elect) (gore) (administer,administrate) (house) (sign)	42.0
+4	(reeve) (campaign) (state) (general)	42.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate) (house) (posit,submit,state,put_forward)	40.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate) (house) (state)	40.0
+4	(elect) (campaign) (administer,administrate) (general)	40.0
+4	(elect) (campaign) (general) (administer,administrate)	40.0
+3	(elect) (general) (administer,administrate)	40.0
+3	(administer,administrate) (sign) (bill)	39.0
+3	(ratify,sign) (administer,administrate) (bill)	39.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate) (state)	38.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (administer,administrate) (state)	38.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (visit) (house)	38.0
+4	(reeve) (elect) (letter) (general)	36.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (elect) (state)	36.0
+5	(reeve) (administer,administrate) (elect) (letter) (assassinate)	36.0
+5	(reeve) (elect) (state) (letter) (assassinate)	36.0
+5	(reeve) (campaign) (elect) (letter) (general)	36.0
+4	(reeve) (elect) (letter) (administer,administrate)	36.0
+5	(reeve) (campaign) (elect) (letter) (administer,administrate)	36.0
+5	(reeve) (campaign) (state) (letter) (assassinate)	36.0
+5	(brown) (elect) (state) (administer,administrate) (sign)	36.0
+4	(reeve) (elect) (administer,administrate) (assassinate)	36.0
+5	(brown) (elect) (state) (sign) (administer,administrate)	36.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect) (house) (posit,submit,state,put_forward)	36.0
+5	(reeve) (campaign) (general) (letter) (assassinate)	36.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (elect) (posit,submit,state,put_forward)	36.0
+4	(reeve) (elect) (general) (assassinate)	36.0
+6	(brown) (elect) (store) (say,state,tell) (sign) (administer,administrate)	36.0
+5	(reeve) (campaign) (elect) (letter) (state)	36.0
+5	(reeve) (campaign) (administer,administrate) (letter) (assassinate)	36.0
+6	(brown) (elect) (store) (say,state,tell) (administer,administrate) (sign)	36.0
+5	(reeve) (elect) (administer,administrate) (letter) (assassinate)	36.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	36.0
+4	(reeve) (elect) (letter) (state)	36.0
+6	(coal) (elect) (brown) (say,state,tell) (administer,administrate) (sign)	36.0
+6	(coal) (elect) (brown) (say,state,tell) (sign) (administer,administrate)	36.0
+3	(elect) (administer,administrate) (assassinate)	36.0
+5	(reeve) (elect) (general) (letter) (assassinate)	36.0
+5	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (house) (elect) (state)	36.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect) (house) (state)	36.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	32.0
+7	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	32.0
+4	(coal) (store) (state) (administer,administrate)	32.0
+3	(elect) (be) (state)	32.0
+4	(campaign,run) (elect) (cut,reduce) (state)	32.0
+3	(house) (meet) (general)	32.0
+4	(elect) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (state)	32.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	32.0
+6	(debate) (administer,administrate) (elect) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	32.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	32.0
+3	(meet,encounter) (house) (general)	32.0
+2	(house) (general)	32.0
+5	(coal) (elect) (store) (say,state,tell) (administer,administrate)	32.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	32.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	32.0
+4	(elect) (administer,administrate) (house) (sign)	32.0
+4	(elect) (administer,administrate) (letter) (state)	30.0
+4	(elect) (administer,administrate) (letter) (general)	30.0
+3	(elect) (state) (administer,administrate)	28.0
+3	(elect) (state) (general)	28.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	28.0
+4	(elect) (administer,administrate) (general) (assassinate)	28.0
+4	(elect) (campaign) (state) (administer,administrate)	28.0
+4	(elect) (campaign) (state) (general)	28.0
+5	(bill) (elect) (house) (administer,administrate) (sign)	27.0
+5	(bill) (gore) (house) (sign) (administer,administrate)	27.0
+5	(bill) (elect) (house) (sign) (administer,administrate)	27.0
+4	(reeve) (administer,administrate) (state) (general)	27.0
+5	(bill) (gore) (house) (administer,administrate) (sign)	27.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (state)	26.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (house) (state)	26.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (house) (state)	26.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect) (state)	26.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (elect) (state)	26.0
+4	(elect) (campaign) (administer,administrate) (assassinate)	24.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	24.0
+6	(coal) (store) (brown) (say,state,tell) (administer,administrate) (sign)	24.0
+3	(elect) (letter) (state)	24.0
+4	(elect) (campaign) (general) (assassinate)	24.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	24.0
+4	(elect) (campaign) (letter) (state)	24.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	24.0
+5	(reeve) (campaign) (elect) (administer,administrate) (assassinate)	24.0
+4	(elect) (general) (letter) (assassinate)	24.0
+7	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	24.0
+5	(coal) (store) (house) (sign) (administer,administrate)	24.0
+6	(coal) (store) (brown) (say,state,tell) (sign) (administer,administrate)	24.0
+6	(coal) (elect) (store) (house) (sign) (administer,administrate)	24.0
+2	(meet,encounter) (general)	24.0
+6	(coal) (elect) (store) (house) (administer,administrate) (sign)	24.0
+3	(elect) (letter) (administer,administrate)	24.0
+4	(elect) (campaign) (letter) (administer,administrate)	24.0
+7	(coal) (elect) (store) (brown) (say,state,tell) (sign) (administer,administrate)	24.0
+5	(elect) (campaign) (administer,administrate) (letter) (assassinate)	24.0
+5	(coal) (store) (house) (administer,administrate) (sign)	24.0
+5	(elect) (campaign) (general) (letter) (assassinate)	24.0
+6	(coal) (elect) (store) (brown) (sign) (administer,administrate)	24.0
+5	(elect) (campaign) (state) (letter) (assassinate)	24.0
+5	(coal) (store) (brown) (sign) (administer,administrate)	24.0
+5	(reeve) (campaign) (elect) (general) (assassinate)	24.0
+4	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	24.0
+7	(coal) (elect) (store) (brown) (say,state,tell) (administer,administrate) (sign)	24.0
+3	(elect) (letter) (general)	24.0
+4	(elect) (state) (letter) (assassinate)	24.0
+3	(elect) (general) (assassinate)	24.0
+3	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	24.0
+4	(elect) (campaign) (letter) (general)	24.0
+5	(campaign,run) (cut,reduce) (house) (administer,administrate) (state)	20.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	20.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	20.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (administer,administrate) (posit,submit,state,put_forward)	20.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (administer,administrate) (state)	20.0
+5	(campaign,run) (cut,reduce) (elect) (administer,administrate) (state)	20.0
+4	(reduce,cut) (elect) (administer,administrate) (state)	20.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (administer,administrate) (posit,submit,state,put_forward)	20.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (administer,administrate) (state)	20.0
+4	(reduce,cut) (house) (administer,administrate) (state)	20.0
+3	(meet,encounter) (house) (elect)	20.0
+5	(reeve) (campaign) (administer,administrate) (letter) (state)	18.0
+4	(elect) (administer,administrate) (state) (general)	18.0
+5	(reeve) (elect) (administer,administrate) (letter) (general)	18.0
+4	(reeve) (elect) (general) (state)	18.0
+5	(reeve) (elect) (administer,administrate) (letter) (state)	18.0
+5	(reeve) (administer,administrate) (elect) (letter) (state)	18.0
+5	(reeve) (elect) (state) (letter) (general)	18.0
+5	(reeve) (campaign) (general) (letter) (administer,administrate)	18.0
+5	(reeve) (administer,administrate) (general) (letter) (assassinate)	18.0
+5	(reeve) (campaign) (state) (letter) (general)	18.0
+3	(administer,administrate) (house) (general)	18.0
+4	(reeve) (elect) (administer,administrate) (state)	18.0
+5	(reeve) (administer,administrate) (state) (letter) (assassinate)	18.0
+5	(reeve) (elect) (general) (letter) (administer,administrate)	18.0
+5	(reeve) (elect) (general) (letter) (state)	18.0
+6	(elect) (bill) (gore) (house) (administer,administrate) (sign)	18.0
+6	(elect) (bill) (gore) (house) (sign) (administer,administrate)	18.0
+5	(reeve) (campaign) (state) (letter) (administer,administrate)	18.0
+4	(reeve) (administer,administrate) (letter) (assassinate)	18.0
+5	(reeve) (campaign) (general) (letter) (state)	18.0
+4	(reeve) (administer,administrate) (general) (assassinate)	18.0
+5	(reeve) (elect) (state) (letter) (administer,administrate)	18.0
+5	(reeve) (campaign) (administer,administrate) (letter) (general)	18.0
+5	(elect) (gore) (bill) (sign) (administer,administrate)	18.0
+5	(reeve) (administer,administrate) (elect) (letter) (general)	18.0
+3	(house) (administer,administrate) (general)	18.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (state)	16.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	16.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (elect) (posit,submit,state,put_forward)	16.0
+6	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (house) (posit,submit,state,put_forward)	16.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	16.0
+7	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	16.0
+3	(reduce,cut) (house) (state)	16.0
+5	(campaign,run) (cut,reduce) (administer,administrate) (house) (state)	16.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (state)	16.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	16.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (state)	16.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	16.0
+4	(campaign,run) (cut,reduce) (elect) (state)	16.0
+5	(elect) (gore) (ratify,sign) (house) (administer,administrate)	16.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	16.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house)	16.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	16.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	16.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (house) (state)	16.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	16.0
+6	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	16.0
+5	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (elect) (state)	16.0
+4	(campaign,run) (cut,reduce) (house) (state)	16.0
+3	(reduce,cut) (elect) (state)	16.0
+4	(reduce,cut) (administer,administrate) (house) (state)	16.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	16.0
+6	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	16.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (state)	16.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (state)	16.0
+5	(elect) (administer,administrate) (gore) (house) (sign)	16.0
+5	(debate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (house)	16.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (house)	16.0
+4	(elect) (gore) (administer,administrate) (sign)	16.0
+4	(reduce,cut) (administer,administrate) (elect) (state)	16.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	16.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (elect) (state)	16.0
+5	(elect) (gore) (administer,administrate) (house) (sign)	16.0
+5	(campaign,run) (cut,reduce) (administer,administrate) (elect) (state)	16.0
+3	(administer,administrate) (meet) (general)	14.0
+3	(meet,encounter) (administer,administrate) (general)	14.0
+4	(elect) (administer,administrate) (general) (state)	14.0
+5	(elect) (campaign) (general) (letter) (state)	12.0
+4	(reeve) (campaign) (administer,administrate) (assassinate)	12.0
+5	(elect) (administer,administrate) (general) (letter) (assassinate)	12.0
+5	(elect) (campaign) (administer,administrate) (letter) (general)	12.0
+4	(reeve) (administer,administrate) (elect) (assassinate)	12.0
+4	(elect) (general) (letter) (administer,administrate)	12.0
+5	(elect) (campaign) (state) (letter) (general)	12.0
+5	(reeve) (campaign) (elect) (administer,administrate) (state)	12.0
+4	(elect) (general) (letter) (state)	12.0
+5	(reeve) (elect) (state) (administer,administrate) (assassinate)	12.0
+4	(elect) (campaign) (general) (state)	12.0
+5	(reeve) (elect) (general) (administer,administrate) (assassinate)	12.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	12.0
+5	(elect) (administer,administrate) (house) (bill) (sign)	12.0
+5	(elect) (campaign) (general) (letter) (administer,administrate)	12.0
+6	(coal) (elect) (store) (say,state,tell) (sign) (administer,administrate)	12.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	12.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	12.0
+5	(reeve) (campaign) (state) (general) (assassinate)	12.0
+5	(reeve) (campaign) (state) (administer,administrate) (assassinate)	12.0
+6	(coal) (elect) (store) (say,state,tell) (administer,administrate) (sign)	12.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	12.0
+5	(elect) (administer,administrate) (state) (letter) (assassinate)	12.0
+5	(reeve) (elect) (administer,administrate) (general) (assassinate)	12.0
+5	(reeve) (campaign) (elect) (general) (state)	12.0
+3	(house) (administer,administrate) (elect)	12.0
+4	(elect) (state) (letter) (administer,administrate)	12.0
+5	(reeve) (elect) (state) (general) (assassinate)	12.0
+2	(house) (elect)	12.0
+5	(reeve) (campaign) (general) (administer,administrate) (assassinate)	12.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	12.0
+4	(reeve) (campaign) (general) (assassinate)	12.0
+5	(elect) (campaign) (state) (letter) (administer,administrate)	12.0
+5	(coal) (store) (state) (sign) (administer,administrate)	12.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (debate) (administer,administrate) (elect) (house)	12.0
+5	(reeve) (campaign) (administer,administrate) (general) (assassinate)	12.0
+3	(elect) (general) (state)	12.0
+4	(elect) (campaign) (administer,administrate) (state)	12.0
+5	(elect) (campaign) (administer,administrate) (letter) (state)	12.0
+5	(elect) (administer,administrate) (house) (sign) (bill)	12.0
+5	(reeve) (administer,administrate) (elect) (general) (assassinate)	12.0
+5	(coal) (store) (state) (administer,administrate) (sign)	12.0
+3	(house) (meet) (elect)	12.0
+5	(reeve) (campaign) (elect) (general) (administer,administrate)	12.0
+5	(reeve) (campaign) (elect) (administer,administrate) (general)	12.0
+4	(elect) (state) (letter) (general)	12.0
+5	(reeve) (administer,administrate) (general) (letter) (state)	9.0
+4	(reeve) (administer,administrate) (letter) (state)	9.0
+6	(bill) (elect) (gore) (house) (sign) (administer,administrate)	9.0
+4	(reeve) (administer,administrate) (letter) (general)	9.0
+4	(reeve) (administer,administrate) (general) (state)	9.0
+6	(bill) (elect) (gore) (house) (administer,administrate) (sign)	9.0
+5	(reeve) (administer,administrate) (state) (letter) (general)	9.0
+7	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (administer,administrate) (elect) (posit,submit,state,put_forward)	8.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	8.0
+6	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (elect) (administer,administrate) (posit,submit,state,put_forward)	8.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	8.0
+6	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (house) (administer,administrate) (elect) (posit,submit,state,put_forward)	8.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (administer,administrate)	8.0
+6	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (elect) (house) (posit,submit,state,put_forward)	8.0
+3	(meet,encounter) (administer,administrate) (elect)	8.0
+5	(elect) (campaign) (general) (administer,administrate) (assassinate)	8.0
+6	(campaign,run) (cut,reduce) (administer,administrate) (elect) (house) (posit,submit,state,put_forward)	8.0
+5	(elect) (campaign) (administer,administrate) (general) (assassinate)	8.0
+6	(campaign,run) (cut,reduce) (elect) (house) (administer,administrate) (posit,submit,state,put_forward)	8.0
+5	(reduce,cut) (elect) (administer,administrate) (house) (state)	8.0
+5	(reduce,cut) (house) (administer,administrate) (elect) (state)	8.0
+7	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (elect) (house) (posit,submit,state,put_forward)	8.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	8.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (elect) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	8.0
+5	(reduce,cut) (administer,administrate) (elect) (house) (state)	8.0
+6	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (house) (elect) (posit,submit,state,put_forward)	8.0
+6	(campaign,run) (cut,reduce) (administer,administrate) (house) (elect) (posit,submit,state,put_forward)	8.0
+6	(campaign,run) (cut,reduce) (house) (elect) (administer,administrate) (posit,submit,state,put_forward)	8.0
+6	(campaign,run) (cut,reduce) (elect) (administer,administrate) (house) (posit,submit,state,put_forward)	8.0
+4	(elect) (state) (administer,administrate) (assassinate)	8.0
+5	(debate) (administer,administrate) (bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	8.0
+4	(elect) (state) (general) (assassinate)	8.0
+7	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (house) (administer,administrate) (posit,submit,state,put_forward)	8.0
+5	(reduce,cut) (elect) (house) (administer,administrate) (state)	8.0
+3	(meet,encounter) (general) (house)	8.0
+5	(elect) (campaign) (state) (administer,administrate) (assassinate)	8.0
+5	(elect) (campaign) (state) (general) (assassinate)	8.0
+6	(campaign,run) (cut,reduce) (house) (administer,administrate) (elect) (posit,submit,state,put_forward)	8.0
+7	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (elect) (administer,administrate) (house) (posit,submit,state,put_forward)	8.0
+7	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (house) (elect) (administer,administrate) (posit,submit,state,put_forward)	8.0
+5	(reduce,cut) (house) (elect) (administer,administrate) (state)	8.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (elect) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	8.0
+7	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (reduce,cut) (administer,administrate) (house) (elect) (posit,submit,state,put_forward)	8.0
+6	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (administer,administrate) (house) (posit,submit,state,put_forward)	8.0
+4	(elect) (general) (administer,administrate) (assassinate)	8.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (visit) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	8.0
+6	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (elect) (house) (administer,administrate) (posit,submit,state,put_forward)	8.0
+5	(reduce,cut) (administer,administrate) (house) (elect) (state)	8.0
+2	(administer,administrate) (general)	7.0
+5	(reeve) (elect) (administer,administrate) (general) (state)	6.0
+5	(reeve) (elect) (state) (administer,administrate) (general)	6.0
+4	(reeve) (campaign) (administer,administrate) (state)	6.0
+3	(administer,administrate) (cut,reduce) (state)	6.0
+6	(elect) (gore) (administer,administrate) (house) (sign) (bill)	6.0
+5	(reeve) (elect) (state) (general) (administer,administrate)	6.0
+6	(elect) (gore) (bill) (house) (administer,administrate) (sign)	6.0
+5	(reeve) (campaign) (state) (general) (administer,administrate)	6.0
+5	(reeve) (campaign) (administer,administrate) (general) (state)	6.0
+4	(reeve) (administer,administrate) (elect) (state)	6.0
+4	(reeve) (campaign) (general) (state)	6.0
+5	(elect) (administer,administrate) (general) (letter) (state)	6.0
+4	(reeve) (administer,administrate) (state) (assassinate)	6.0
+6	(elect) (gore) (bill) (house) (sign) (administer,administrate)	6.0
+5	(reeve) (campaign) (general) (administer,administrate) (state)	6.0
+3	(reeve) (administer,administrate) (assassinate)	6.0
+5	(reeve) (administer,administrate) (elect) (general) (state)	6.0
+6	(elect) (gore) (ratify,sign) (house) (bill) (administer,administrate)	6.0
+5	(reeve) (administer,administrate) (state) (general) (assassinate)	6.0
+5	(reeve) (campaign) (state) (administer,administrate) (general)	6.0
+6	(elect) (administer,administrate) (gore) (house) (bill) (sign)	6.0
+6	(elect) (gore) (ratify,sign) (house) (administer,administrate) (bill)	6.0
+6	(elect) (administer,administrate) (gore) (house) (sign) (bill)	6.0
+5	(reeve) (elect) (general) (administer,administrate) (state)	6.0
+6	(elect) (gore) (administer,administrate) (house) (bill) (sign)	6.0
+4	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate)	6.0
+5	(elect) (administer,administrate) (state) (letter) (general)	6.0
+5	(elect) (gore) (administer,administrate) (sign) (bill)	6.0
+4	(administer,administrate) (encounter,meet) (house) (elect)	4.0
+4	(house) (encounter,meet) (general) (administer,administrate)	4.0
+4	(meet,encounter) (house) (general) (administer,administrate)	4.0
+3	(meet,encounter) (general) (administer,administrate)	4.0
+2	(meet,encounter) (elect)	4.0
+3	(meet,encounter) (general) (elect)	4.0
+3	(house) (general) (administer,administrate)	4.0
+5	(elect) (campaign) (state) (administer,administrate) (general)	4.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (house) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	4.0
+5	(elect) (campaign) (general) (administer,administrate) (state)	4.0
+4	(administer,administrate) (encounter,meet) (general) (house)	4.0
+5	(elect) (administer,administrate) (state) (general) (assassinate)	4.0
+4	(house) (encounter,meet) (general) (elect)	4.0
+4	(meet,encounter) (house) (general) (elect)	4.0
+5	(elect) (campaign) (administer,administrate) (general) (state)	4.0
+3	(house) (general) (elect)	4.0
+4	(meet,encounter) (administer,administrate) (general) (house)	4.0
+4	(meet,encounter) (administer,administrate) (house) (elect)	4.0
+5	(elect) (campaign) (state) (general) (administer,administrate)	4.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	4.0
+4	(meet,encounter) (house) (administer,administrate) (elect)	4.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (house) (administer,administrate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	4.0
+6	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	4.0
+4	(elect) (state) (general) (administer,administrate)	4.0
+4	(elect) (general) (administer,administrate) (state)	4.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (elect) (house)	4.0
+4	(elect) (state) (administer,administrate) (general)	4.0
+4	(elect) (administer,administrate) (state) (assassinate)	4.0
+3	(administer,administrate) (meet) (elect)	4.0
+4	(house) (encounter,meet) (administer,administrate) (elect)	4.0
+3	(reduce,cut) (administer,administrate) (state)	2.0
+3	(administer,administrate) (general) (house)	2.0
+5	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (state)	2.0
+4	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (administer,administrate) (state)	2.0
+4	(administer,administrate) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (cut,reduce) (state)	2.0
+4	(house) (administer,administrate) (general) (elect)	2.0
+4	(campaign,run) (administer,administrate) (cut,reduce) (state)	2.0
+4	(campaign,run) (cut,reduce) (administer,administrate) (state)	2.0
+4	(administer,administrate) (house) (general) (elect)	2.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (visit)	2.0
+4	(meet,encounter) (administer,administrate) (general) (elect)	2.0
+5	(bring_in,gain,take_in,clear,make,earn,realize,realise,pull_in,net,sack,sack_up,get,have) (administer,administrate) (consider,study,debate,moot,turn_over,deliberate) (advertise,advertize,promote,push,crusade,fight,press,campaign,agitate) (house)	2.0
+4	(administer,administrate) (encounter,meet) (general) (elect)	2.0
+3	(campaign,run) (administer,administrate) (state)	2.0
+3	(administer,administrate) (general) (elect)	1.0
+4	(campaign,run) (be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (state)	1.0
+3	(be,live,survive,last,live_on,go,endure,hold_up,hold_out,exist,subsist) (administer,administrate) (state)	1.0
+3	(administer,administrate) (be) (state)	1.0

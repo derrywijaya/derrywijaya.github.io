@@ -1,0 +1,10 @@
+begin-finaldate begin-debutdate
+begin-termend begin-termstart
+begin-spouse end-spouse
+begin-years end-years
+begin-domesticpartner end-domesticpartner
+begin-serviceyears end-serviceyears
+begin-youthyears end-youthyears
+begin-manageryears end-manageryears
+begin-nationalyears end-nationalyears
+begin-children begin-spouse

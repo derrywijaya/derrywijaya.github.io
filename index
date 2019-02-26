@@ -1,0 +1,526 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+
+<head>
+
+
+
+<title>Research Page</title>
+
+
+
+</head>
+
+
+
+<body bgcolor="#CCCCCC">
+
+
+
+<h1><font size="5" face="Verdana, Arial, Helvetica, sans-serif">Derry 
+Research Page</font></h1><font face="arial" size="2">
+
+<img height="120" width="90" align="left" src="DSD27367.jpg">
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<a href="index.htm#interests">Research Interests</a><br />
+
+
+
+<a href="index.htm#pubs">Publications</a><br />
+
+
+
+<a href="index.htm#otherPubs">Other Publications</a><br />
+
+
+
+<a href="index.htm#selected">Select Research Projects</a><br />
+
+
+
+<a href="index.htm#progress">Most Recent Work</a><br />
+
+
+
+<a href="index.htm#edu">Education</a><br />
+
+
+
+<a href="index.htm#awards">Awards</a><br />
+
+
+
+<a href="index.htm#experience">Experience</a><br />
+
+
+
+<a href="index.htm#skills">Skills</a><br />
+
+
+
+<a href="index.htm#systems">Select Designs and Systems</a><br />
+
+
+
+<a href="index.htm#contact">Contact</a><br />
+
+
+
+<br />
+
+
+
+<h3><a name="interests" id="interests">Research Interests</a></h3>
+
+
+
+<ul>
+
+
+
+<li>Algorithms for networks of distributed information systems</li>
+
+
+
+<li>Information Retrieval</li>
+
+
+
+<li>Machine Learning</li>
+
+
+
+<li>Natural Language Processing</li></ul>
+
+
+
+<h3><a name="pubs" id="pubs">Publications</a></h3>
+
+
+
+<ol>
+
+
+
+<li><font size="2" face="arial"><a><strong>Clustering Web Documents Using 
+Co-citation, Coupling, Incoming, and Outgoing Hyperlinks: a Comparative 
+Performance Analysis of Algorithms.</strong> Derry Tanti Wijaya and Sthane 
+Bressan. International Journal of Web Information System 2 (2), June 2006. 
+</a></font><a></a><a href="IJWIS2-1-1Bressan.pdf"><font size="2" 
+face="arial">pdf</font></a></li>
+
+
+
+<li><font size="2" face="arial"><a><strong>Journey to the Centre of the 
+Star: Various Ways of Finding Star Centers in Star Clustering.</strong> 
+Derry Tanti Wijaya and Sthane Bressan. R. Wagner, N. Revell, and G. Pernul 
+(Eds.): DEXA 2007, LNCS 4653, pp. 660-670, 2007.</a> <a 
+href="WijayaBressan_starClusteringDEXA07.pdf">pdf</a> <a 
+href="dexa07.ppt">slides</a> <a href="star.rar">codes</a> <a 
+href="google.zip">data</a> </font></li>
+
+
+
+<li><font size="2" face="arial"><a></a><strong>Hierarchical Clustering for 
+POS Tagging of the Indonesian Language. </strong>Derry Tanti Wijaya and 
+<a>Sthane Bressan</a>. SNLP 2007. <a 
+href="BressanWijaya_MSTClusteringSNLP07.pdf">pdf</a> <a 
+href="snlp07.ppt">slides</a> </font></li>
+
+
+
+<li><font size="2" face="arial"><a></a><strong>Random Walk on the Red 
+Carpet: Rating Movies with User Reviews and PageRank.</strong> Derry Tanti 
+Wijaya and <a>Sthane Bressan. CIKM 2008. </a><a 
+href="BressanWijaya_cikm2008.pdf">pdf</a> <a 
+href="CIKM2008.ppt">slides</a> <a 
+href="opinionMining.rar">codes+data</a></font></li>
+
+
+
+<li><font size="2" face="arial"><strong>Ricochet: A Family of 
+Unconstrained Algorithms for Graph clustering.</strong> Derry Tanti Wijaya 
+and Sthane Bressan. DASFAA 2009. <a 
+href="BressanWijaya_RicochetClusteringDASFAA09.pdf">pdf</a> <a 
+href="dasfaa09.ppt">slides</a> <a 
+href="ricochet.rar">codes+data</a></font></li>
+
+
+
+<li><font size="2" face="arial"><strong>Predicting Classifier Performance 
+Using Data Set Descriptors and Data Mining Ontology.</strong> Derry Tanti 
+Wijaya, Alexandros Kalousis, Melanie Hilario. Proc. of the 3rd Planning to 
+Learn Workshop, ECAI 2010.</font></li></ol>
+
+
+
+<h3><a name="otherPubs" id="otherPubs">Other Publications</a></h3>
+
+
+
+<ol>
+
+
+
+<li><strong>A Farmer's Hope</strong>. Derry Tanti Wijaya and Syahrial 
+Dahler. An article in the book Gema Kebangkitan: Catatan Harapan Anak 
+Bangsa (Echo of Awakening: Diary of Hopes from the Children of the 
+Nation). A book published in celebration of the 100th-year Indonesian 
+National Awakening day, 2008</li>
+
+
+
+<li><strong>The Role of Women in Local Economic Reform in 
+Indonesia</strong>. Derry Tanti Wijaya. A research done for the Women 
+Study Center, State University of Malang, Indonesia, 2003</li></ol>
+
+
+
+<h3><a name="selected" id="selected">Select Research Projects</a></h3>
+
+
+
+<ol>
+
+
+
+<li><strong>Mining Correlation among Time Series using Maximum Fuzzy 
+Alignment</strong>. Advanced Data Mining course, 2007<br />
+
+
+
+This project proposes to measure correlation between time series that 
+allows for time shifting and mismatching. The project uses idea from 
+Machine Translation in Natural Language Processing to find maximum fuzzy 
+alignment between time series. Initial experiment on synthetic and real 
+data shows that the method is able to find better alignment than the 
+Longest Common Subsequence algorithm</li>
+
+
+
+<li><strong>Rating Objects using Random Walk on Sentiment Graph</strong>. 
+Advanced Natural Language Processing course, 2007 <br />
+
+
+
+This project constructs sentiment graph from reviews, with adjectives from 
+reviews as nodes in the graph. It then conducts random walk on the graph 
+to simulate the flow of sentiments among adjectives and score the 
+adjectives. Objects are then ranked according to the aggregated sentiment 
+scores of their adjectives</li>
+
+
+
+<li><strong>Text Summarization</strong>. Text Processing on the Web 
+course, 2007 <br />
+
+
+
+This project uses Markov clustering to first cluster sentences according 
+to topics and then uses PageRank algorithm to select the most important 
+sentence of each cluster to be returned in the summary</li>
+
+
+
+<li><strong>Ranking resources and queries in mobile discovery of resources 
+in peer-to-peer wireless network</strong>. Parallel and Distributed 
+Databases course, 2006 <br />
+
+
+
+This project explores the management of databases distributed among moving 
+objects such as mobile devices in a peer-to-peer wireless ad-hoc network. 
+We investigate the effect of ranking resources and queries that are to be 
+shared among mobile devices in a peer-to-peer wireless ad-hoc network with 
+a limited communication bandwidth. We perform simulation on SWAN which is 
+a scalable wireless ad-hoc network simulator to test and compare the 
+effect of various ranking schemes.</li></ol>
+
+
+
+<h3><a name="progress" id="progress">Most Recent Work</a></h3>
+
+
+
+<ul>Meta learning based on Data Mining ontology <br />
+
+
+
+ (As a research assistant for the <a 
+href="http://www.e-lico.eu/">e-LICO</a> project at the University of 
+Geneva, Switzerland - October 2009 to July 2010)</ul>
+
+
+
+<ul><b>Description of project:</b>&nbsp;<br />
+
+
+
+The project aims to put some sort of structure into the abundant disarray 
+of algorithms in the field of Data Mining through the construction of Data 
+Mining ontology. With this ontology, it is hoped that some structured 
+insights can be made into the 'black boxes' of algorithms, find 
+algorithms' inherent similarities and differences, and their suitability 
+for a particular task or datasets with specific characteristics. The 
+ontology will be used as a source of prior knowledge in an intelligent 
+meta-learner that will help users of Data Mining algorithms to select the 
+best algorithm and the sequence of Data Mining operators most suitable for 
+the task and the dataset at hand.</ul>
+
+<ul><b>Resources:</b><br/><a 
+href="http://www.yourfilelink.com/get.php?fid=552913">Cancer data 
+sets</a></ul>
+
+
+
+<h3><a name="edu" id="edu">Education</a></h3>
+
+
+
+<ul>
+
+
+
+<li><strong>PhD student, current</strong><br />Language Technologies 
+Institute, School of Computer Science, Carnegie Mellon University, 2010 - 
+current</li>
+
+<li><strong>MSc, Computer Science, 2008 </strong><br />
+
+
+
+National University of Singapore (NUS), 2006 - 2008 <br />
+
+
+
+Thesis: Graphs, Clustering and Applications. <a 
+href="derry_Masterthesis.pdf">pdf</a></li>
+
+
+
+<li><strong>Bachelor of Computing in Computer Science, 2004 </strong><br 
+/>
+
+
+
+National University of Singapore (NUS), 2000 - 2004 <br />
+
+
+
+Thesis: Clustering Web Documents Using Co-citation, Coupling, Incoming, 
+and Outgoing Hyperlinks</li></ul>
+
+
+
+<h3><a name="awards" id="awards">Awards</a></h3>
+
+
+
+<ul>
+
+
+
+<li>Fulbright Science and Technology Award, 2010 - current</li>
+
+
+
+<li>Google Global Community Scholarship, 2007</li>
+
+
+
+<li>NUS Research Scholarships for Graduate Studies, 2006 - 2008</li>
+
+
+
+<li>Student of the University Scholars Programme (USP) - an 
+interdisciplinary academic programme at NUS that is created to provide 
+intellectual, leadership and personal development for exceptionally 
+motivated and talented students at NUS (<a 
+href="http://www.usp.nus.edu.sg">http://www.usp.nus.edu.sg</a>), 2000 - 
+2004</li>
+
+
+
+<li>Singapore Computer Systems' scholarship for Undergraduate study, 2000 
+- 2004</li>
+
+
+
+<li>ASEAN scholarship for High School and Pre University studies, 1996 - 
+1999</li>
+
+
+
+<li>Exemplary student award, runner up in East Java province of Indonesia, 
+1994</li></ul>
+
+
+
+<h3><a id="experience" name="experience">Experience</a></h3>
+
+
+
+<ul>
+
+
+
+<li>Research Assistant, Artificial Intelligence Laboratory, University of 
+Geneva, October 2009 - July 2010</li>
+
+<li>Software Engineer Intern, Google Zurich, August 2008 - February 
+2009</li>
+
+
+
+<li>Graduate Student Researcher, Natural Language Processing, NUS, January 
+2008 - August 2008</li>
+
+
+
+<li>Teaching Assistant for Data Structures and Algorithms, NUS, August 
+2007 - December 2007</li>
+
+
+
+<li>Lecturer, Department of Business Information Technology, Institute of 
+Technical Education (ITE) Singapore, September 2004 - August 2006</li>
+
+
+
+<li>Web Traffic Analyst, Global Sources, July 2004 - September 
+2004</li></ul>
+
+
+
+<h3><a id="skills" name="skills">Skills</a></h3>
+
+
+
+<ul>
+
+
+
+<li><strong>Design</strong>: Software Development Life Cycle, Object 
+Oriented Design Analysis</li>
+
+
+
+<li><strong>Programming Languages</strong>: Java, Perl, Shell Scripting, 
+Scheme/LISP, CLIPS, Java Socket, SML, OpenGL, Delphi, ColdFusion</li>
+
+
+
+<li><strong>Database and Web</strong>: Search engines, Data Mining, SQL, 
+HTML, Google Web Toolkit, Google Visualization API</li>
+
+
+
+<li><strong>Operating Systems</strong>: Windows, UNIX (Sun Solaris), 
+Linux</li>
+
+
+
+<li><strong>Machine Learning Techniques</strong></li>
+
+
+
+<li><strong>Application Software</strong>: Macromedia Director, Flash, 
+Dreamweaver, RapidMiner(Yale), Taverna, Protege</li>
+
+
+
+<li><strong>Languages</strong>: English (fluent), Bahasa Indonesia 
+(native), Bahasa Jawa (native), Bahasa Melayu (fluent), German 
+(beginner)</li></ul>
+
+
+
+<h3><a id="systems" name="systems">Select Design and Systems</a></h3>
+
+
+
+<ul>
+
+
+
+<li><strong>Google Chart API</strong>. A Google web 2.0 application for 
+rendering charts and small images (Java), <a 
+href="http://code.google.com/apis/chart">http://code.google.com/apis/chart</a>, 
+2008</li>
+
+
+
+<li><strong>SMS Engine (Java)</strong>. A web-based system designed to 
+assist ITE lecturers in sending mass text-based messages from a web 
+interface to students' phones, 2006</li>
+
+
+
+<li><strong>Real Work system (ColdFusion)</strong>. A web-based system 
+designed to help ITE students search and apply for in-campus jobs, 
+2005</li>
+
+
+
+<li><strong>Web Systems</strong>. Web crawler, web information retrieval 
+and analysis (Perl), web pages clustering (Java)</li>
+
+
+
+<li><strong>Knowledge-based Systems</strong>. Knowledge-based Match-making 
+system (Java), Knowledge-based Course Advisor system for NUS engineering 
+students (CLIPS)</li></ul>
+
+
+
+<h3><a id="contact" name="contact">Contact</a></h3>
+
+
+
+<ul>Derry Tanti Wijaya<br />
+
+
+
+derry dot wijaya at gmail dot com</ul>
+
+
+
+<ul>Last updated: 22 Aug 2010</ul>
+
+
+
+</font>
+
+
+
+</body>
+
+
+
+</html>
+

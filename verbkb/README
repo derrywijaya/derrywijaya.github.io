@@ -1,0 +1,22 @@
+The format of VerbKB JSON file:
+
+id: 0								(id of the verb)
+verb: have							(the verb)
+count: 63							(number of verb’s type signatures)
+pattern:							(the list of type signatures)
+	id: 0							(id of type signature)
+	subject: location					(the subject type)
+	verb: have						(the verb)
+	objec: location						(the object type)
+	expressions:						(the list of relations that the verb expresses)
+		id: 0						(id of the relation)
+		express: locationHaveLocation			(the relation)
+		confidence: 0.85				(the confidence that the verb expresses the relation)
+	count: 1.47						(the % of times the verb occurs in ClueWeb with the type signature)
+	text:							(the top-20 actual mentions of the typed verbs in the ClueWeb corpus)
+		id: 0						(id of the mention)
+		subject: location:trip advisor			(the subject of the mention)
+		verb: have					(the verb)
+		objec: location:reviews				(the object of the mention)
+		count: 25363					(the number of times this Subject-Verb-Object triple is mentioned in ClueWeb)
+
