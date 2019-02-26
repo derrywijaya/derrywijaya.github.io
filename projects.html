@@ -104,7 +104,7 @@ relationship, while the addition of "divorce" indicates the termination of said 
      In my research, I have observed that mentions of entities and beliefs in texts change over time. These changes can be used to infer their updates in the knowledge base. 
       <h3>Part 1 <small> : When does a belief start and when does it end? </small> </h3>
      </p><p>With collaborators, I developed a joint inference method for extracting the temporal scopes of a belief from changes in the counts of a belief's mentions in documents.  
-     Independent activation scores of beliefs, which are inferred from their mentions, are input to a joint inference framework to infer the temporal scopes of beliefs while respecting temporal constraints among those beliefs e.g., the constraint that <i>politicianHoldsOffice</i>(Bush, president) succeeds <i>politicianHoldsOffice</i>(Reagan, president). [<a href="http://rtw.ml.cmu.edu/papers/talukdar-wsdm12.pdf">WSDM2012</a>]
+     Independent activation scores of beliefs, which are inferred from their mentions, are input to a joint inference framework to infer the temporal scopes of beliefs while respecting temporal constraints among those beliefs e.g., the constraint that <i>politicianHoldsOffice</i>(Bush, president) succeeds <i>politicianHoldsOffice</i>(Reagan, president). [<a href="https://www.cs.cmu.edu/~tom/pubs/talukdar-wsdm12.pdf">WSDM2012</a>]
 	</p>  
     <center><a href="images/cots1.png"><img src="images/cots1.png" width="50%" /></a></center>
     <p class="caption"><b>Figure 1</b>: <i>Temporal profiles of two beliefs in NELL knowledge base demonstrating potential benefit of collective inference: considering ’President Bush’ during inference can help determine the end of Reagan’s presidency (shaded region). 
@@ -117,7 +117,7 @@ relationship, while the addition of "divorce" indicates the termination of said 
     <h3>Part 2 <small> : Do some beliefs <i>typically</i> start before another? </small> </h3>
 	<p>To learn the temporal constraints among beliefs, with collaborators I developed a method that automatically learns the temporal constraints among relations (e.g., to learn that the relation <i>starredIn</i>(actor, movie) typically occurs before <i>wonPrize</i>(movie, award)), from the narrative order of the verbs that express the relations within documents. 
 	The narrative order of the verbs serve as a probabilistic training signal for learning the temporal order of the relations that the verbs express. Instead of ordering two beliefs at a time, we developed a graph-based label propagation algorithm called GraphOrder to jointly infer the temporal order of all relations at once, taking transitivity into account. 
-	[<a href="http://rtw.ml.cmu.edu/papers/talukdar-cikm12.pdf">CIKM2012</a>]
+	[<a href="http://talukdar.net/papers/temporal_constraint_acq_cikm12.pdf">CIKM2012</a>]
 	</p>
 	<a href="images/narrative1.png"><img src="images/narrative1.png" width="50%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="images/narrative2.png"><img src="images/narrative2.png" width="45%" /></a>
     <p class="caption"><b>Figure 3</b>: <i>(<b>Left</b>) Given a large document collection, we aggregate the narrative order of the verb mentions in the documents (e.g., "directed", "starring", "won", etc.) and use it to serve as a probabilistic training signal for learning the temporal order of the relations that the verbs express (e.g., directed, actedIn, wonPrize respectively). 
@@ -129,7 +129,7 @@ relationship, while the addition of "divorce" indicates the termination of said 
      Specifically, for a given word of interest, the method clusters words that occur in its context. 
 Each cluster is a reflection of the word's meaning and the method identifies the year(s) in which the 
 cluster changes. The change in the cluster acts as a proxy for the change in the word's meaning. 
-[<a href="http://rtw.ml.cmu.edu/papers/wijaya-detect11.pdf">DETECT2011</a>]
+[<a href="10.1.1.258.7577.pdf">DETECT2011</a>]
 	 </p>
     <center><a href="images/wordChange1.png"><img src="images/wordChange1.png" width="45%" /></a></center>
     <p class="caption"><b>Figure 1</b>: <i> Given the word "gay", the cluster change can be seen around 1970s when the word "gay" started to be used with words that reflect the homosexual meaning of the word "gay". The top words for each cluster are a good indicator of the original and the latter meaning of the word.</i></p>
@@ -149,7 +149,7 @@ cluster changes. The change in the cluster acts as a proxy for the change in the
 			 			                           <ol>
 			 			                           <li>
 			 			                           <b>Understanding Semantic Relationship between Nouns in Noun Compounds through Paraphrasing and Ranking the Paraphrases.</b> Machine Learning course, 2010<br />
-			 			                           Given an noun compound (NC) such as 'headache pills' and possible paraphrases such as: 'pills that <i>induce</i> headache' or 'pills that <i>relieve</i> headache' can we learn to choose which verb: 'induce' or 'relieve' that best describes the semantic relation encoded in 'headache pills'? In this project, we describe our approaches to rank human-proposed paraphrasing verbs of NCs. Our contribution is a novel approach that uses two-step process of clustering similar NCs and then labeling the best paraphrasing verb as the most prototypical verb in the cluster. At that time, our proposed method outperforms state-of-the-art method for the task. [<a href="http://rtw.ml.cmu.edu/papers/wijaya-smer11.pdf">SMER2011</a>]
+			 			                           Given an noun compound (NC) such as 'headache pills' and possible paraphrases such as: 'pills that <i>induce</i> headache' or 'pills that <i>relieve</i> headache' can we learn to choose which verb: 'induce' or 'relieve' that best describes the semantic relation encoded in 'headache pills'? In this project, we describe our approaches to rank human-proposed paraphrasing verbs of NCs. Our contribution is a novel approach that uses two-step process of clustering similar NCs and then labeling the best paraphrasing verb as the most prototypical verb in the cluster. At that time, our proposed method outperforms state-of-the-art method for the task. [<a href="p9-wijaya.pdf">SMER2011</a>]
 			 			                           </li>
 												 			<li>
 												   <b>Meta learning based on Data Mining ontology.</b> Project done as a 
