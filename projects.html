@@ -61,7 +61,8 @@
 cannot be assumed. In such cases, being able to learn translations from monolingual sources is potentially useful. I model the problem of learning lexical translations as a matrix 
 completion problem, and present an effective and extendable framework for completing the matrix. The method harnesses diverse bilingual and monolingual signals, each of which 
 maybe incomplete or noisy. The model achieves state-of-the-art performance for both high and low resource languages [<a 
-href="http://www.cis.upenn.edu/~derry/bpr.pdf">EMNLP2017 (to appear)</a>] [<a href="http://www.cis.upenn.edu/~derry/translations.html">project page</a>].
+href="http://aclweb.org/anthology/P18-1239">ACL2018</a>][<a 
+href="http://www.cis.upenn.edu/~derry/bpr.pdf">EMNLP2017</a>] [<a href="http://www.cis.upenn.edu/~derry/translations.html">project page</a>].
     </p>
  	<a href="images/matrixcompletion3.png"><img src="images/matrixcompletion3.png" width="40%" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="images/matrixcompletion4.png"><img src="images/matrixcompletion4.png" width="50%" /></a>
     <p class="caption"><b>Figure 1</b>: <i>(<b>Left</b>) The model allows us to use a diverse range of signals to learn translations, including incomplete bilingual dictionaries, information from related languages (like Indonesian loan words from Dutch shown here), information from multilingual knowledge bases such as <a href="http://wiki.dbpedia.org">DBPedia</a>, word embeddings (shown in the columns), and even visual similarity cues. (<b>Right</b>) The model that combines textual and visual signals for translations (BPR_VIS) improves accuracy of the translation compared to the method that uses textual (BPR_WE) or visual (CNN_AVGMAX) signals alone. In this example, the correct English translation for the Indonesian word "pelayaran" is underlined. The figures on the left and right show the Google Search images of the word in Indonesian and in English.</i></p>
