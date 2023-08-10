@@ -1,0 +1,54 @@
+📣 Job Advertisement: Research Assistant - Natural Language Processing (NLP) & AI 🚀
+
+
+Advertisements: 
+
+🏢 Company: Monash University Indonesia 🎓
+🌐 Location: BSD City, Tanggerang Selatan
+💰 Compensation: IDR 12,000,000 per month (6 months contract)
+
+Monash University Indonesia is seeking a highly motivated and skilled Research Assistant to join our prestigious team. As a Research Assistant, you will have the unique opportunity to work on cutting-edge projects in Natural Language Processing (NLP) and Artificial Intelligence (AI) for Bahasa Indonesia. You will be collaborating with none other than Assoc Prof Derry Wijaya, a leading NLP researcher in the world, making this an exceptional chance to contribute to groundbreaking research in the field of language technology.
+
+🔍 Job Title: Research Assistant - NLP & AI
+📅 Duration: 6 months (with the possibility of extension)
+
+🎯 Key Responsibilities:
+As a Research Assistant, you will play a key role in advancing our NLP and AI projects, including:
+
+✔️ Assisting in the development and implementation of NLP algorithms and AI models.
+✔️ Conducting data collection, annotation, and preprocessing tasks for Bahasa Indonesia.
+✔️ Collaborating with Assoc Prof Derry Wijaya and the research team to analyze and interpret results.
+✔️ Contributing to research papers and documentation of research findings.
+✔️ Integrating your Full Stack development experience to create robust and user-friendly applications.
+✔️ Leveraging your expertise in Python and either MySQL, PostgreSQL, or NoSQL databases.
+✔️ Crafting captivating front-end interfaces using React or Angular.
+✔️ Utilizing your experience in website scraping and data cleansing techniques.
+
+📝 Requirements:
+To excel in this role, you should possess the following qualifications:
+
+🔹 Bachelor's degree in Computer Science, Data Science, Engineering or related fields.
+🔹 Minimum of 3 years of experience as a Full Stack Developer.
+🔹 Proficiency in Python and familiarity with MySQL, PostgreSQL, or NoSQL databases.
+🔹 Strong command of front-end technologies, such as React or Angular.
+🔹 Experience in website scraping and data extraction.
+🔹 Comfortable with API consumption and integration.
+🔹 Solid understanding of data cleansing techniques.
+🔹 Strong passion for NLP and AI research.
+
+💼 Company Overview:
+Monash University Indonesia is a renowned institution committed to excellence in education and research. By joining our team, you will work alongside industry experts and accomplished academics, creating a unique environment for professional growth and development.
+
+🏆 Benefits and Opportunities:
+As a valued Research Assistant, you will receive:
+
+🎁 Competitive compensation of IDR 12,000,000 per month for the 6-month contract.
+🎁 The opportunity to work with a leading NLP researcher, Assoc Prof Derry Wijaya.
+🎁 Exposure to cutting-edge research in NLP and AI for Bahasa Indonesia.
+🎁 Possibility of other projects and career advancement after the initial contract.
+🎁 Networking opportunities with prominent professionals in the field.
+
+📝 How to Apply:
+Ready to embark on this exciting research journey? Please submit your updated resume, cover letter, and any relevant academic records to derry.wijaya@monash.edu. Include "Research Assistant Application - [Your Name]" in the subject line.
+
+Join us at Monash University Indonesia and be a part of the future of language technology and AI research! Apply now and seize this unparalleled opportunity to work with world-class researchers! 🌟
