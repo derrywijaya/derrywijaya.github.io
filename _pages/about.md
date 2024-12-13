@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.monash.edu/indonesia'>Monash University Indonesia</a>, <a href='https://www.bu.edu/cs/'>Boston University</a> (Adjunct). Jakarta. Derry.Wijaya@monash.edu.
+subtitle: <a href='https://www.monash.edu/indonesia'>Monash University Indonesia</a>, <a href='https://www.bu.edu/cs/'>Boston University</a> (Adjunct). Jakarta. <a href="mailto:derry.wijaya@monash.edu">Derry.Wijaya@monash.edu</a>.
 
 profile:
   align: right
