@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
     <a href="mailto:derry.wijaya@monash.edu">Derry.Wijaya@monash.edu</a>
 
 news: true # includes a list of news items
