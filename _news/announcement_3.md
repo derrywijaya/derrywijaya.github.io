@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-In the process of updating my website after so long! :sparkles: :smile:
+In the process of updating my website after so long! :sparkles: 
