@@ -40,7 +40,7 @@ profiles:
     content: people/eddy.md
     image_circular: true
   - align: right
-    image: llamgrp.jpg
+    image: llamagrp.jpg
     content: people/masters.md
     image_circular: true
 ---
