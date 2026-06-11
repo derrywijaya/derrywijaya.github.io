@@ -1,0 +1,1 @@
+**Khumaisa Nur'aini** is a PhD student at Monash University, Indonesia. Her research focuses on data-efficient adaptation for low-resource languages, including circuit-targeted supervised fine-tuning and mechanistic interpretability of multilingual models.

@@ -1,0 +1,1 @@
+**Current Master's students** in the lab at Monash University, Indonesia: Cindy Wanady, Carina Utomo, Rizky Nur, Iqbal Alhadi, and Hesti Rahmawati. They work across multilingual NLP, evaluation of language models, and AI for society, with several projects aimed at publication at top venues.
