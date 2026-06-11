@@ -1,0 +1,1 @@
+**Eddy Rahardjo** is a research assistant in the lab working on the **Sea-Tech** project—*Sustainable Seaweed Cultivation through Smart Technology and Automation*—funded by the Partnership for Australia-Indonesia Research (PAIR). His work applies smart technology and automation to support sustainable seaweed cultivation in Indonesia.
