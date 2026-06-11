@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Three new papers accepted in 2026: entity tracking in language models (ICML), multilingual rubric-agnostic reward reasoning (ICLR), and AI misconceptions among Indonesian K-12 teachers (AIED). :tada:
+Three new papers accepted in 2026: entity tracking in language models ([ICML](https://arxiv.org/abs/2605.30233)), multilingual rubric-agnostic reward reasoning ([ICLR](https://arxiv.org/abs/2510.01146)), and AI misconceptions among Indonesian K-12 teachers (AIED). :tada:
