@@ -1,0 +1,118 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Derry Tanti Wijaya
+    - name: Languages
+      value: Javanese, Indonesian, English
+    - name: Research Areas
+      value: Natural Language Processing, Machine Learning, Multilingual & Low-Resource NLP, Interpretability and Evaluation of Language Models
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D., Language Technologies Institute
+      institution: Carnegie Mellon University, Pittsburgh, USA
+      year: 2016
+      description:
+        - "Advisor: Tom Mitchell"
+        - "Thesis: VerbKB — A Knowledge Base of Verbs for Natural Language Understanding"
+    - title: M.Sc., School of Computing
+      institution: National University of Singapore
+      year: 2010
+      description:
+        - "Advisor: Stephane Bressan"
+    - title: B.Comp., School of Computing
+      institution: National University of Singapore
+      year: 2004
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Associate Professor & Program Coordinator, Data Science
+      institution: Monash University, Indonesia
+      year: 2022 - now
+      description:
+        - "Program Coordinator, Data Science (2024–present)"
+        - "Co-Director, Monash Data & Democracy Research Hub (2023–present)"
+    - title: Assistant Professor, Computer Science
+      institution: Boston University, USA (now Adjunct)
+      year: 2018 - 2022
+      description:
+        - "Co-Director, AI and Education Initiative, Hariri Institute (2021–2022)"
+    - title: Postdoctoral Researcher, Computer & Information Science
+      institution: University of Pennsylvania, USA
+      year: 2016 - 2018
+      description:
+        - "Advisor: Chris Callison-Burch"
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - Best Data Researcher, Data Science Indonesia Award
+    - year: 2019
+      items:
+        - University Provost's Career Development Professorship, Boston University
+    - year: 2013
+      items:
+        - Anita Borg Scholarship, Google
+    - year: 2010 - 2016
+      items:
+        - International Science & Technology Fellowship, Fulbright
+
+- title: Selected Research Grants
+  type: time_table
+  contents:
+    - title: LEARN — Label-Efficient Active Resilient Network (Co-PI)
+      institution: DARPA, Learning with Less Labels
+      year: ""
+      description:
+        - "USD $462k"
+    - title: Digitalising Waste Management for a Just Green Transition in Indonesian Smart Cities
+      institution: Danida, Denmark
+      year: 2025
+      description:
+        - "USD $300k"
+    - title: Contextualizing LLMs for Women's Sexual & Reproductive Health in Indonesia (PI)
+      institution: Google Research Award
+      year: 2024
+      description:
+        - "USD $60k"
+    - title: Exploring the Evolution of Racial Biases through Framing Analysis (PI)
+      institution: Google Research Scholar Award
+      year: 2021
+      description:
+        - "USD $60k"
+    - title: Monitoring Hate Speech toward Vulnerable Communities, 2024 Indonesia Election
+      institution: Open Society Foundation
+      year: 2023
+      description:
+        - "USD $37k"
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Interpretable & Steerable Language Models
+      items:
+        - Mechanistic interpretability of multilingual and multimodal models
+        - Safe model editing, controllability, and hallucination reduction
+    - title: Evaluation of Generative Models
+      items:
+        - Meta-metrics, LLM-as-a-judge, and rubric-agnostic reward reasoning
+        - Aligning evaluation with human preferences and values
+    - title: Multilingual & Low-Resource NLP
+      items:
+        - Data-efficient transfer for low-resource languages
+        - Machine translation from dictionaries and grammars; code-switching generation
+    - title: Multicultural AI & NLP for Society
+      items:
+        - Culturally aware models; preservation of indigenous scripts and honorifics
+        - Bias, polarization, toxicity, hate speech, and misinformation; AI for health
+
+- title: Professional Service
+  type: list
+  contents:
+    - <u>Area / Senior Area / Session Chair:</u> ACL, EMNLP, IJCNLP, NeurIPS, ICLR
+    - <u>Organizer:</u> AACL 2026 (Hengqin); SEALP Workshop @ COLING 2025; CALCS Workshop @ NAACL 2025; AACL 2023 (Bali)
