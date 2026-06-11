@@ -7,6 +7,10 @@
       value: Javanese, Indonesian, English
     - name: Research Areas
       value: Natural Language Processing, Machine Learning, Multilingual & Low-Resource NLP, Interpretability and Evaluation of Language Models
+    - name: Citations
+      value: 4,388+ (Google Scholar, h-index 28)
+    - name: Research Funding
+      value: Over USD $2.3M raised as PI or Co-PI
 
 - title: Education
   type: time_table
@@ -65,9 +69,14 @@
 - title: Selected Research Grants
   type: time_table
   contents:
+    - title: "BIGDATA: Multiplatform, Multilingual & Multimodal Tools for Analyzing Public Communication in 100+ Languages"
+      institution: NSF (with M. Betke, L. Guo, P. Ishwar)
+      year: 2018–2022
+      description:
+        - "USD $1,000,000"
     - title: LEARN — Label-Efficient Active Resilient Network (Co-PI)
       institution: DARPA, Learning with Less Labels
-      year: ""
+      year: 2019–2022
       description:
         - "USD $462k"
     - title: Digitalising Waste Management for a Just Green Transition in Indonesian Smart Cities
@@ -75,6 +84,11 @@
       year: 2025
       description:
         - "USD $300k"
+    - title: "AIDA: Semi-supervised Learning of Multimodal Representations"
+      institution: DARPA (with C. Callison-Burch)
+      year: 2019–2020
+      description:
+        - "USD $100k"
     - title: Contextualizing LLMs for Women's Sexual & Reproductive Health in Indonesia (PI)
       institution: Google Research Award
       year: 2024
@@ -85,11 +99,31 @@
       year: 2021
       description:
         - "USD $60k"
+    - title: IndigiSEA — Indigenous Digital Futures for Southeast Asia
+      institution: Monash Incubator Grant
+      year: 2025
+      description:
+        - "USD $53k"
     - title: Monitoring Hate Speech toward Vulnerable Communities, 2024 Indonesia Election
       institution: Open Society Foundation
       year: 2023
       description:
         - "USD $37k"
+    - title: "Sea-Tech: Sustainable Seaweed Cultivation through Smart Technology"
+      institution: Partnership for Australia-Indonesia Research (PAIR)
+      year: 2025
+      description:
+        - "USD $35k"
+    - title: Bridging Linguistic and Visual Knowledge through Visual Genome (PI)
+      institution: Hariri Institute Research Incubation Award
+      year: 2019–2021
+      description:
+        - "USD $28k"
+    - title: "ExploreCSR: Supporting and Promoting Undergraduate Research for Women"
+      institution: Google
+      year: 2019–2021
+      description:
+        - "USD $18k"
 
 - title: Academic Interests
   type: nested_list
