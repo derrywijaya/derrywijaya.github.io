@@ -69,39 +69,34 @@
 - title: Selected Research Grants
   type: time_table
   contents:
-    - title: "BIGDATA: Multiplatform, Multilingual & Multimodal Tools for Analyzing Public Communication in 100+ Languages"
-      institution: NSF (with M. Betke, L. Guo, P. Ishwar)
-      year: 2018–2022
+    - title: IndigiSEA — Indigenous Digital Futures for Southeast Asia
+      institution: Monash Incubator Grant
+      year: 2026
       description:
-        - "USD $1,000,000"
-    - title: LEARN — Label-Efficient Active Resilient Network (Co-PI)
-      institution: DARPA, Learning with Less Labels
-      year: 2019–2022
-      description:
-        - "USD $462k"
+        - "USD $53k"
     - title: Digitalising Waste Management for a Just Green Transition in Indonesian Smart Cities
       institution: Danida, Denmark
-      year: 2025
+      year: 2025–2029
       description:
         - "USD $300k"
-    - title: "AIDA: Semi-supervised Learning of Multimodal Representations"
-      institution: DARPA (with C. Callison-Burch)
-      year: 2019–2020
+    - title: "Sea-Tech: Sustainable Seaweed Cultivation through Smart Technology"
+      institution: Partnership for Australia-Indonesia Research (PAIR)
+      year: 2025–2027
       description:
-        - "USD $100k"
+        - "USD $61k"
     - title: Contextualizing LLMs for Women's Sexual & Reproductive Health in Indonesia (PI)
       institution: Google Research Award
       year: 2024
       description:
         - "USD $60k"
-    - title: Exploring the Evolution of Racial Biases through Framing Analysis (PI)
-      institution: Google Research Scholar Award
-      year: 2021
+    - title: ASEAN Disinformation Index
+      institution: Monash Data Futures Institute
+      year: 2024
       description:
-        - "USD $60k"
-    - title: IndigiSEA — Indigenous Digital Futures for Southeast Asia
+        - "USD $33k"
+    - title: "Boosting Monash's Global Reputation: Data & Democracy Hub"
       institution: Monash Incubator Grant
-      year: 2025
+      year: 2024
       description:
         - "USD $53k"
     - title: Monitoring Hate Speech toward Vulnerable Communities, 2024 Indonesia Election
@@ -109,21 +104,46 @@
       year: 2023
       description:
         - "USD $37k"
-    - title: "Sea-Tech: Sustainable Seaweed Cultivation through Smart Technology"
-      institution: Partnership for Australia-Indonesia Research (PAIR)
-      year: 2025
+    - title: Exploring Generative AI for Moderating Online Polarisation (PI)
+      institution: Monash Data Futures Institute
+      year: 2023
       description:
         - "USD $35k"
+    - title: "Bhinneka: Multilingual Indonesian Resources"
+      institution: Indonesian Ministry of Education (US Collaboration)
+      year: 2022–2023
+      description:
+        - "USD $45k"
+    - title: Exploring the Evolution of Racial Biases through Framing Analysis (PI)
+      institution: Google Research Scholar Award
+      year: 2021
+      description:
+        - "USD $60k"
+    - title: LEARN — Label-Efficient Active Resilient Network (Co-PI)
+      institution: DARPA, Learning with Less Labels
+      year: 2019–2022
+      description:
+        - "USD $462k"
     - title: Bridging Linguistic and Visual Knowledge through Visual Genome (PI)
       institution: Hariri Institute Research Incubation Award
       year: 2019–2021
       description:
         - "USD $28k"
+    - title: "AIDA: Semi-supervised Learning of Multimodal Representations"
+      institution: DARPA (with C. Callison-Burch)
+      year: 2019–2020
+      description:
+        - "USD $100k"
     - title: "ExploreCSR: Supporting and Promoting Undergraduate Research for Women"
       institution: Google
-      year: 2019–2021
+      year: 2019
       description:
         - "USD $18k"
+    - title: "BIGDATA: Multiplatform, Multilingual & Multimodal Tools for Analyzing Public Communication in 100+ Languages"
+      institution: NSF (with M. Betke, L. Guo, P. Ishwar)
+      year: 2018–2022
+      description:
+        - "USD $1,000,000"
 
 - title: Academic Interests
   type: nested_list
