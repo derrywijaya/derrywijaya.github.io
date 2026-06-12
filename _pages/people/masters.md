@@ -2,7 +2,7 @@
 
 Current Master's students in the lab at Monash University, Indonesia include Cindy Wanady, Carina Utomo, Rizky Nur, Iqbal Alhadi, and Hesti Rahmawati.
 
-Several of my graduated students (Master's and Undergraduates) have published papers at ACL, ICLR, and Q1 journals. 
+Several of my graduated students (Master's and Undergraduates) have published papers at *CL Conferences and Workshops, ICLR, and Q1 journals. 
 
 **Master's** students include: 
 
@@ -10,7 +10,7 @@ Several of my graduated students (Master's and Undergraduates) have published pa
 
 - **Hairurahman**, Indonesian Financial Transaction Reports and Analysis Center (Monash, 2025) — a hybrid knowledge graph for Indonesian sentencing analysis (Artificial Intelligence and Law, 2026)
 
-- Iwan Darmawan**, Direktorat Jenderal Pajak Republik Indonesia (Monash, 2024) — a corpus for the Javanese honorific system (ACL 2025)
+- **Iwan Darmawan**, Direktorat Jenderal Pajak Republik Indonesia (Monash, 2024) — a corpus for the Javanese honorific system (ACL 2025)
 
 - **Fariz Akyas**, Harrasima Inventory Logistic (Monash, 2024) — annotator identity in an Indonesian political polarization corpus (ACL Findings 2025). 
 
