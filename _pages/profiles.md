@@ -2,45 +2,43 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Current PhD students, research assistants, and Master's students in the lab.
+description: Current PhD students, graduated PhD students, research assistants, and selected Master's students.
 nav: true
 nav_order: 7
 
 profiles:
   - align: right
-    image: aini.jpg
+    image: prof_pic.jpg
     content: people/khumaisa.md
     image_circular: true
   - align: left
-    image: adryan.jpg
+    image: prof_pic.jpg
     content: people/adryan.md
     image_circular: true
   - align: right
-    image: peter.jpg
+    image: prof_pic.jpg
     content: people/zilu.md
     image_circular: true
   - align: left
-    image: gegao.JPG
+    image: prof_pic.jpg
     content: people/gegao.md
     image_circular: true
+  - content: people/graduated_phd.md
   - align: right
-    image: rifqi.png
+    image: prof_pic.jpg
     content: people/farhansyah.md
     image_circular: true
   - align: left
-    image: lucky.jpg
+    image: prof_pic.jpg
     content: people/lucky.md
     image_circular: true
   - align: right
-    image: izzan.jpg
+    image: prof_pic.jpg
     content: people/musa.md
     image_circular: true
   - align: left
-    image: eddy.png
+    image: prof_pic.jpg
     content: people/eddy.md
     image_circular: true
-  - align: right
-    image: llamagrp.jpg
-    content: people/masters.md
-    image_circular: true
+  - content: people/masters.md
 ---
