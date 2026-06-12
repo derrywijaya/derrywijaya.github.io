@@ -1,1 +1,1 @@
-**Adryan Kusumawardhana** is a PhD student at Monash University, Indonesia, working on culturally aware language technologies, including the modeling of Javanese honorific systems with large language models.
+[**Adryan Kusumawardhana**] (https://www.linkedin.com/in/adryan-kusumawardhana-3355b255/) is a PhD student at Monash University, Indonesia, working on culturally aware language technologies, including the modeling of Javanese honorific systems with large language models.
