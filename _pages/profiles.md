@@ -2,11 +2,12 @@
 layout: profiles
 permalink: /people/
 title: people
-description: Current PhD students, graduated PhD students, research assistants, and Master's students.
+description: Current PhD students, graduated PhD students, research assistants, Master's and Undergraduate students.
 nav: true
 nav_order: 7
 
 profiles:
+  - content: people/recruiting.md
   - align: right
     image: aini.jpg
     content: people/khumaisa.md
