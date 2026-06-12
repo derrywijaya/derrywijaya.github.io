@@ -1,1 +1,1 @@
-[**Zilu Tang**](https://pootiet.github.io/) is a PhD student at Boston University. His research spans interpretability of language models—including entity tracking across state changes—program translation, and evaluation of generation.
+**[Zilu Tang](https://pootiet.github.io/)** is a PhD student at Boston University. His research spans interpretability of language models—including entity tracking across state changes—program translation, and evaluation of generation.
