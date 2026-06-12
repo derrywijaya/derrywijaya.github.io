@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: people (Boston University-Monash Indonesia *BU-MI* NLP Lab)
 description: Current PhD students, graduated PhD students, research assistants, Master's and Undergraduate students.
 nav: true
 nav_order: 7
