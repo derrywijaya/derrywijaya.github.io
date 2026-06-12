@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I organized the Monash Women in AI panel to discuss careers and research in artificial intelligence. See the [highlights](https://www.instagram.com/p/DR6ivw7ExSa/).
+I organized the [Monash Women in AI panel](https://www.instagram.com/p/DR6ivw7ExSa/) to discuss careers and research in artificial intelligence.
